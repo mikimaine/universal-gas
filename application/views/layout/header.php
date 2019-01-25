@@ -10,11 +10,11 @@
 
     <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Hind%3A300%2Cregular%2C500%2C600%2C700&#038;subset=latin%2Clatin-ext%2Cdevanagari&#038;ver=4.9.7' type='text/css' media='all'>
 
-    <link rel='stylesheet' href='assets/plugins/revslider/public/assets/css/settings.css' type='text/css' media='all'>
-    <link rel='stylesheet' href='assets/css/style-core.css' type='text/css' media='all'>
-    <link rel='stylesheet' href='assets/css/rftr-style-custom.css' type='text/css' media='all'>
-    <link rel='stylesheet' href='assets/plugins/goodlayers-core/plugins/combine/style.css' type='text/css' media='all'>
-    <link rel='stylesheet' href='assets/plugins/goodlayers-core/include/css/page-builder.css' type='text/css' media='all'>
+    <link rel='stylesheet' href='/assets/plugins/revslider/public/assets/css/settings.css' type='text/css' media='all'>
+    <link rel='stylesheet' href='/assets/css/style-core.css' type='text/css' media='all'>
+    <link rel='stylesheet' href='/assets/css/rftr-style-custom.css' type='text/css' media='all'>
+    <link rel='stylesheet' href='/assets/plugins/goodlayers-core/plugins/combine/style.css' type='text/css' media='all'>
+    <link rel='stylesheet' href='/assets/plugins/goodlayers-core/include/css/page-builder.css' type='text/css' media='all'>
 
 
 </head>
