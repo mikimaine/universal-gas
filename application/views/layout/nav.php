@@ -12,6 +12,9 @@
                                         <li class="menu-item" data-size="60"><a href="homepage-4.html">Homepage 4</a></li>
                                     </ul>
                                 </li>
+                                <li class="menu-item menu-item-has-children realfactory-normal-menu"><a href="<?php echo site_url('/welcome/aboutus') ?>" class="sf-with-ul-pre">About-Us</a></li>
+                                <li class="menu-item menu-item-has-children realfactory-normal-menu"><a href="<?php echo site_url('/welcome/contact') ?>" class="sf-with-ul-pre">contact-Us</a></li>
+                                <li class="menu-item menu-item-has-children realfactory-normal-menu"><a href="<?php echo site_url('/welcome/product') ?>" class="sf-with-ul-pre">Our Products</a></li>
                                 <li class="menu-item menu-item-has-children realfactory-normal-menu"><a href="#" class="sf-with-ul-pre">Pages</a>
                                     <ul class="sub-menu">
                                         <li class="menu-item menu-item-has-children" data-size="60"><a href="#" class="sf-with-ul-pre">About</a>
@@ -21,18 +24,7 @@
                                             </ul>
                                         </li>
                                         <li class="menu-item menu-item-has-children" data-size="60"><a href="#" class="sf-with-ul-pre">Contact</a>
-                                            <ul class="sub-menu">
-                                                <li class="menu-item"><a href="contact.html">Contact</a></li>
-                                                <li class="menu-item"><a href="contact-2.html">Contact 2</a></li>
-                                                <li class="menu-item"><a href="contact-3.html">Contact 3</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="menu-item menu-item-has-children" data-size="60"><a href="#" class="sf-with-ul-pre">Team</a>
-                                            <ul class="sub-menu">
-                                                <li class="menu-item"><a href="team-plain-style.html">Team / Plain Style</a></li>
-                                                <li class="menu-item"><a href="team-thumbnail-style.html">Team / Thumbnail Style</a></li>
-                                                <li class="menu-item"><a href="team-frame-style.html">Team / Frame Style</a></li>
-                                            </ul>
+                                           
                                         </li>
                                         <li class="menu-item" data-size="60"><a href="price-table.html">Price Table</a></li>
                                         <li class="menu-item" data-size="60"><a href="maintenance.html">Maintenance</a></li>
