@@ -37,14 +37,14 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                             <div class="gdlr-core-pbf-element">
                                                 <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-center-align" style="padding-bottom: 0px;">
                                                     <div class="gdlr-core-text-box-item-content" style="font-size: 16px;">
-                                                        <p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings.</p>
+                                                        <h2>Give us a call !</h2>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="gdlr-core-pbf-element">
                                                 <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-center-align">
                                                     <div class="gdlr-core-text-box-item-content" style="font-size: 16px;">
-                                                        <p><a href="#">+1-2345-2345</a></p>
+                                                        <p><a href="#">+251 221 126427</a></p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -66,14 +66,14 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                             <div class="gdlr-core-pbf-element">
                                                 <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-center-align" style="padding-bottom: 0px;">
                                                     <div class="gdlr-core-text-box-item-content" style="font-size: 16px;">
-                                                        <p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings.</p>
+                                                        <p></p>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="gdlr-core-pbf-element">
                                                 <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-center-align">
                                                     <div class="gdlr-core-text-box-item-content" style="font-size: 16px;">
-                                                        <p><a href="#">Contact@goodlayers.com</a></p>
+                                                        <p><a href="#">mauniversalgas@gmail.com</a></p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -95,8 +95,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                             <div class="gdlr-core-pbf-element">
                                                 <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-center-align" style="padding-bottom: 0px;">
                                                     <div class="gdlr-core-text-box-item-content" style="font-size: 16px;">
-                                                        <p>4 apt. Flawing Street. The Grand Avenue.
-                                                            <br>Liverpool, UK 33342</p>
+                                                        <p>there is a saying 'Eyes are the windows to the soul.'so we welcome any visitors 
+                                                            <br>Adama/Nazreth, Ethiopia</p>
                                                     </div>
                                                 </div>
                                             </div>
