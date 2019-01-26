@@ -11,25 +11,23 @@
                                 <h3 class="realfactory-widget-title">Market Sectors</h3>
                                 <div class="menu-market-sectors-container">
                                     <ul id="menu-market-sectors" class="menu">
-                                        <li class="menu-item"><a href="#">Automotive Parts &#038; System</a></li>
-                                        <li class="menu-item"><a href="#">Construction &#038; Engineering</a></li>
-                                        <li class="menu-item"><a href="#">Power &#038; Energy</a></li>
-                                        <li class="menu-item"><a href="#">Aero Space</a></li>
-                                        <li class="menu-item"><a href="#">Ship Building Industry</a></li>
-                                        <li class="menu-item"><a href="#">Railway</a></li>
+                                        <li class="menu-item"><a href="<?php echo site_url('/welcome/product') ?>">On chemical processing &#038; Paper manufacturing </a></li>
+                                        <li class="menu-item"><a href="<?php echo site_url('/welcome/product') ?>">On metal fabrications</a></li>
+                                        <li class="menu-item"><a href="<?php echo site_url('/welcome/product') ?>">for basic consumption</a></li>
+                                        <li class="menu-item"><a href="<?php echo site_url('/welcome/product') ?>">for packed food suplier companies</a></li>
+                                        <li class="menu-item"><a href="<?php echo site_url('/welcome/product') ?>">On hospitals &#038; clinics</a></li>
                                     </ul>
                                 </div>
                             </div>
                         </div>
                         <div class="realfactory-footer-column realfactory-item-pdlr realfactory-column-15">
                             <div id="recent-posts-3" class="widget widget_recent_entries realfactory-widget">
-                                <h3 class="realfactory-widget-title">Recent Posts</h3>
+                                <h3 class="realfactory-widget-title">on emergency</h3>
                                 <ul>
-                                    <li> <a href="#">Gallery Post Format</a></li>
-                                    <li> <a href="#">Possession of my entire soul</a></li>
-                                    <li> <a href="#">Audio Post Format</a></li>
-                                    <li> <a href="#">Quote Post Format</a></li>
-                                    <li> <a href="#">I sink under the weight of the splendour</a></li>
+                                    <li> <a >please leave the area and call</a></li>
+                                    <br> <i class="fa fa-phone" style="font-size: 20px;color: #f7c02e;margin-right: 10px;"></i> 998
+                                    <li> <a >or call main station (Arada adissababa) +251.011 1123341</a></li>
+                                    <li> <a href="#"> <li> <a href="#">for more information click here</a></li></a></li>                                   
                                 </ul>
                             </div>
                         </div>
@@ -37,11 +35,11 @@
                             <div id="text-7" class="widget widget_text realfactory-widget">
                                 <h3 class="realfactory-widget-title">Contact Info</h3>
                                 <div class="textwidget">
-                                    <p><i class="fa fa-location-arrow" style="font-size: 20px;color: #f7c02e;margin-left: 0px;margin-right: 10px;"></i> 12 Main Street Pt. London
+                                    <p><i class="fa fa-location-arrow" style="font-size: 20px;color: #f7c02e;margin-left: 0px;margin-right: 10px;"></i> adama nazreth
                                         <br> <span class="gdlr-core-space-shortcode" style="margin-top: -6px;"></span>
-                                        <br> <i class="fa fa-phone" style="font-size: 20px;color: #f7c02e;margin-right: 10px;"></i> +44 3656 4567
+                                        <br> <i class="fa fa-phone" style="font-size: 20px;color: #f7c02e;margin-right: 10px;"></i>+251-221-126427
                                         <br> <span class="gdlr-core-space-shortcode" style="margin-top: -6px;"></span>
-                                        <br> <i class="fa fa-envelope-o" style="font-size: 20px;color: #f7c02e;margin-left: 0px;margin-right: 10px;"></i> contact@realfactoryWP.com</p>
+                                        <br> <i class="fa fa-envelope-o" style="font-size: 20px;color: #f7c02e;margin-left: 0px;margin-right: 10px;"></i> mauniversalgas@gmail.com</p>
                                 </div>
                             </div>
                         </div>

@@ -122,7 +122,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                                 </div>
                                             </div>
                                             <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-button-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align"><a class="gdlr-core-button  gdlr-core-button-solid gdlr-core-button-no-border" href="#" style="color: #f8c12c;padding: 15px 30px 15px 30px;margin: 0px 10px 10px 0px;border-radius: 3px;-moz-border-radius: 3px;-webkit-border-radius: 3px;background: #303030 ;"><span class="gdlr-core-content">Learn More</span></a><a class="gdlr-core-button  gdlr-core-button-transparent gdlr-core-button-with-border" href="#" id="gdlr-core-button-id-38517"><span class="gdlr-core-content">Get A Quote</span></a></div>
+                                                <div class="gdlr-core-button-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align"><a class="gdlr-core-button  gdlr-core-button-solid gdlr-core-button-no-border" href="<?php echo site_url('/welcome/aboutus') ?>" style="color: #f8c12c;padding: 15px 30px 15px 30px;margin: 0px 10px 10px 0px;border-radius: 3px;-moz-border-radius: 3px;-webkit-border-radius: 3px;background: #303030 ;"><span class="gdlr-core-content">Learn More</span></a></div>
                                             </div>
                                         </div>
                                     </div>
