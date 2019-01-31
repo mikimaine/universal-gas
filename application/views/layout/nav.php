@@ -6,9 +6,9 @@
                             <ul id="menu-main-navigation-1" class="sf-menu">
                                 <li class="menu-item menu-item-home current-menu-item menu-item-has-children realfactory-normal-menu"><a href="<?php echo site_url('/welcome/index') ?>" class="sf-with-ul-pre">Home</a>
                                 </li>
-                                <li class="menu-item menu-item-has-children realfactory-normal-menu"><a href="<?php echo site_url('/welcome/aboutus') ?>" class="sf-with-ul-pre">About-Us</a></li>
+                                <li class="menu-item menu-item-has-children realfactory-normal-menu"><a href="<?php echo site_url('/welcome/aboutus') ?>" class="sf-with-ul-pre">About Us</a></li>
                                 <li class="menu-item menu-item-has-children realfactory-normal-menu"><a href="<?php echo site_url('/welcome/product') ?>" class="sf-with-ul-pre">Our Products</a></li>
-                                <li class="menu-item menu-item-has-children realfactory-normal-menu"><a href="<?php echo site_url('/welcome/contact') ?>" class="sf-with-ul-pre">contact-Us</a></li>
+                                <li class="menu-item menu-item-has-children realfactory-normal-menu"><a href="<?php echo site_url('/welcome/contact') ?>" class="sf-with-ul-pre">Contact Us</a></li>
                             <div class="realfactory-navigation-slide-bar" id="realfactory-navigation-slide-bar"></div>
                         </div>
                         <div class="realfactory-main-menu-right-wrap clearfix ">

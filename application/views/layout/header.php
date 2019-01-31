@@ -5,9 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Real Factory &#8211; HTML Template For Factory / Industry / Construction</title>
-    
-
+    <title>MA Universal  &#8211; INDUSTRIAL GAS PLANT</title>
     <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Hind%3A300%2Cregular%2C500%2C600%2C700&#038;subset=latin%2Clatin-ext%2Cdevanagari&#038;ver=4.9.7' type='text/css' media='all'>
 
     <link rel='stylesheet' href='/assets/plugins/revslider/public/assets/css/settings.css' type='text/css' media='all'>
@@ -19,14 +17,13 @@
 
 </head>
 
-
 <body data-rsssl="1" class="home page-template-default page page-id-2039 gdlr-core-body woocommerce-no-js realfactory-body realfactory-body-front realfactory-full  realfactory-with-sticky-navigation gdlr-core-link-to-lightbox">
     <div class="realfactory-mobile-header-wrap">
         <div class="realfactory-mobile-header realfactory-header-background realfactory-style-slide" id="realfactory-mobile-header">
             <div class="realfactory-mobile-header-container realfactory-container">
                 <div class="realfactory-logo  realfactory-item-pdlr">
                     <div class="realfactory-logo-inner">
-                        <a href="index.html"><img src="assets/images/logo.png" alt=""></a>
+                        <a ><img src="/assets/images/logo.png" alt=""></a>
                     </div>
                 </div>
                 <div class="realfactory-mobile-menu-right">
@@ -55,7 +52,7 @@
                                 <li class="menu-item menu-item-has-children"><a href="products.php">Products</a>
                                     
                                 </li>
-                                <li class="menu-item menu-item-has-children"><a href="contact.php">Contact us</a>
+                                <li class="menu-item menu-item-has-children"><a href="<?php echo site_url('/welcome/product') ?>">Contact us</a>
                                    
                                 </li>
                                
@@ -86,7 +83,7 @@
                             </div>
                     </div>
                     <div class="realfactory-top-bar-right realfactory-item-pdlr">
-                        <div class="realfactory-top-bar-right-social"><a href="mailto:#" target="_blank" class="realfactory-top-bar-social-icon" title="email"><i class="fa fa-envelope"></i></a><a href="#" target="_blank" class="realfactory-top-bar-social-icon" title="facebook"><i class="fa fa-facebook"></i></a><a href="#" target="_blank" class="realfactory-top-bar-social-icon" title="google-plus"><i class="fa fa-google-plus"></i></a><a href="#" target="_blank" class="realfactory-top-bar-social-icon" title="linkedin"><i class="fa fa-linkedin"></i></a><a href="#" target="_blank" class="realfactory-top-bar-social-icon" title="twitter"><i class="fa fa-twitter"></i></a></div>
+                        <div class="realfactory-top-bar-right-social"><a href="mailto:mauniversalgas@gmail.com" target="_blank" class="realfactory-top-bar-social-icon" title="email"><i class="fa fa-envelope"></i></a></div>
                     </div>
                 </div>
             </div>
@@ -96,7 +93,7 @@
                     <div class="realfactory-header-container-inner">
                         <div class="realfactory-logo  realfactory-item-pdlr">
                             <div class="realfactory-logo-inner">
-                                <a href="index.html"><img src="assets/images/logo.png" alt=""></a>
+                                <a href="index.html"><img src="/assets/images/logo.png" alt=""></a>
                             </div>
                         </div>
                         <div class="realfactory-logo-right-text realfactory-item-pdlr">
@@ -117,6 +114,7 @@
                                     <div class="realfactory-logo-right-block-title realfactory-title-font">Number #1</div>
                                     <div class="realfactory-logo-right-block-caption realfactory-title-font">The only liquid nitrogen Suplier in Ethiopia</div>
                                 </div>
+                                </div><a class="realfactory-header-right-button" href="contact.html" target="_self">Contact us</a></div>
                     </div>
                 </div>
             </header>
