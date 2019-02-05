@@ -1,35 +1,31 @@
 <footer>
                 <div class="realfactory-footer-wrapper">
                     <div class="realfactory-footer-container realfactory-container clearfix">
-                        <div class="realfactory-footer-column realfactory-item-pdlr realfactory-column-15">
-                            <div id="text-3" class="widget widget_text realfactory-widget">
-                                <div class="textwidget"><span class="gdlr-core-space-shortcode" style="margin-top: -2px;"></span> <img src="assets/upload/logo-white.png" alt=""> <span class="gdlr-core-space-shortcode" style="margin-top: 7px;"></span>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</div>
-                            </div>
-                        </div>
+
                         <div class="realfactory-footer-column realfactory-item-pdlr realfactory-column-15">
                             <div id="nav_menu-4" class="widget widget_nav_menu realfactory-widget">
                                 <h3 class="realfactory-widget-title">Market Sectors</h3>
                                 <div class="menu-market-sectors-container">
                                     <ul id="menu-market-sectors" class="menu">
-                                        <li class="menu-item"><a href="#">Automotive Parts &#038; System</a></li>
-                                        <li class="menu-item"><a href="#">Construction &#038; Engineering</a></li>
-                                        <li class="menu-item"><a href="#">Power &#038; Energy</a></li>
-                                        <li class="menu-item"><a href="#">Aero Space</a></li>
-                                        <li class="menu-item"><a href="#">Ship Building Industry</a></li>
-                                        <li class="menu-item"><a href="#">Railway</a></li>
+                                        <li class="menu-item"><a href="<?php echo site_url('/welcome/product') ?>">Chemical processing &#038; Paper manufacturing </a></li>
+                                        <li class="menu-item"><a href="<?php echo site_url('/welcome/product') ?>">Metal fabrications</a></li>
+                                        <li class="menu-item"><a href="<?php echo site_url('/welcome/product') ?>">Basic consumption</a></li>
+                                        <li class="menu-item"><a href="<?php echo site_url('/welcome/product') ?>">Packed food suplier companies</a></li>
+                                        <li class="menu-item"><a href="<?php echo site_url('/welcome/product') ?>">Hospitals &#038; Clinics</a></li>
                                     </ul>
                                 </div>
                             </div>
                         </div>
                         <div class="realfactory-footer-column realfactory-item-pdlr realfactory-column-15">
                             <div id="recent-posts-3" class="widget widget_recent_entries realfactory-widget">
-                                <h3 class="realfactory-widget-title">Recent Posts</h3>
+                                <h3 class="realfactory-widget-title">Here is a little about us</h3>
                                 <ul>
-                                    <li> <a href="#">Gallery Post Format</a></li>
-                                    <li> <a href="#">Possession of my entire soul</a></li>
-                                    <li> <a href="#">Audio Post Format</a></li>
-                                    <li> <a href="#">Quote Post Format</a></li>
-                                    <li> <a href="#">I sink under the weight of the splendour</a></li>
+                                    <li> 
+                                        <p>
+                                            Our quality policy is to deliver our customers the products and services that fully satisfy their requirements.
+                                        </p>
+                                    </li>
+                                    
                                 </ul>
                             </div>
                         </div>
@@ -37,11 +33,11 @@
                             <div id="text-7" class="widget widget_text realfactory-widget">
                                 <h3 class="realfactory-widget-title">Contact Info</h3>
                                 <div class="textwidget">
-                                    <p><i class="fa fa-location-arrow" style="font-size: 20px;color: #f7c02e;margin-left: 0px;margin-right: 10px;"></i> 12 Main Street Pt. London
+                                    <p><i class="fa fa-location-arrow" style="font-size: 20px;color: #f7c02e;margin-left: 0px;margin-right: 10px;"></i> Adama/Nazreth,Ethiopia
                                         <br> <span class="gdlr-core-space-shortcode" style="margin-top: -6px;"></span>
-                                        <br> <i class="fa fa-phone" style="font-size: 20px;color: #f7c02e;margin-right: 10px;"></i> +44 3656 4567
+                                        <br> <i class="fa fa-phone" style="font-size: 20px;color: #f7c02e;margin-right: 10px;"></i>+251 221 126427
                                         <br> <span class="gdlr-core-space-shortcode" style="margin-top: -6px;"></span>
-                                        <br> <i class="fa fa-envelope-o" style="font-size: 20px;color: #f7c02e;margin-left: 0px;margin-right: 10px;"></i> contact@realfactoryWP.com</p>
+                                        <br> <i class="fa fa-envelope-o" style="font-size: 20px;color: #f7c02e;margin-left: 0px;margin-right: 10px;"></i> mauniversalgas@gmail.com</p>
                                 </div>
                             </div>
                         </div>
@@ -49,7 +45,7 @@
                 </div>
                 <div class="realfactory-copyright-wrapper">
                     <div class="realfactory-copyright-container realfactory-container">
-                        <div class="realfactory-copyright-text realfactory-item-pdlr">Copyright 2018 max-themes, All Right Reserved</div>
+                        <div class="realfactory-copyright-text realfactory-item-pdlr">@Copyright 2019, MA UNIVERSAL GAS PLANT</div>
                     </div>
                 </div>
             </footer>

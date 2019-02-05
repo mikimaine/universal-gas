@@ -15,6 +15,7 @@ class MY_Controller extends CI_Controller
     {
         parent::__construct();
         $this->data['page_title'] = ucfirst(uri_string());
+        $this->load->library('form_validation');
     }
     /**
      * Set subview and load layout
