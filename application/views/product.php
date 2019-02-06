@@ -1,4 +1,6 @@
-
+<?php
+defined('BASEPATH') OR exit('No direct script access allowed');
+?>
 <div class="realfactory-page-title-wrap  realfactory-style-large realfactory-center-align">
                 <div class="realfactory-header-transparent-substitute"></div>
                 <div class="realfactory-page-title-overlay"></div>
@@ -60,3 +62,5 @@
                     </div>
                 </div>
             </div>
+        </div>
+    </div>
