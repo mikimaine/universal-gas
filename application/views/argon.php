@@ -51,15 +51,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="gdlr-core-pbf-column gdlr-core-column-30">
-                                        <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
-                                            <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
-                                                <div class="gdlr-core-pbf-element">
-                                                    <div class="gdlr-core-button-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-right-align"><a class="gdlr-core-button  gdlr-core-button-transparent gdlr-core-button-with-border" href="#" id="gdlr-core-button-id-93432"><i class="gdlr-core-pos-left fa fa-file-word-o"></i><span class="gdlr-core-content">Download Doc</span></a><a class="gdlr-core-button  gdlr-core-button-transparent gdlr-core-button-with-border" href="#" id="gdlr-core-button-id-53822"><i class="gdlr-core-pos-left fa fa-file-pdf-o"></i><span class="gdlr-core-content">Download PDF</span></a></div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
+                                   
                                     <div class="gdlr-core-pbf-column gdlr-core-column-60 gdlr-core-column-first">
                                         <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
                                             <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">

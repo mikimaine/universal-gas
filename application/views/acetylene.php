@@ -19,9 +19,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <div class="realfactory-breadcrumbs-container realfactory-container">
                     <div class="realfactory-breadcrumbs-item realfactory-item-pdlr"> <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to Real Factory." href="#" class="home"><span property="name">Home</span></a>
                         <meta property="position" content="1">
-                        </span><i class="fa fa-angle-right"></i> <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to Market Sectors." href="index.htm" class="post post-page"><span property="name">Market Sectors</span></a>
+                        </span><i class="fa fa-angle-right"></i> <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to Market Sectors." href="index.htm" class="post post-page"><span property="name">Products</span></a>
                         <meta property="position" content="2">
-                        </span><i class="fa fa-angle-right"></i> <span property="itemListElement" typeof="ListItem"><span property="name">Automotive Parts &#038; System</span>
+                        </span><i class="fa fa-angle-right"></i> <span property="itemListElement" typeof="ListItem"><span property="name">Acetylene</span>
                         <meta property="position" content="3">
                         </span>
                     </div>
