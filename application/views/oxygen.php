@@ -17,9 +17,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <div class="realfactory-breadcrumbs-container realfactory-container">
                     <div class="realfactory-breadcrumbs-item realfactory-item-pdlr"> <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to Real Factory." href="https://demo.goodlayers.com/realfactory" class="home"><span property="name">Home</span></a>
                         <meta property="position" content="1">
-                        </span><i class="fa fa-angle-right"></i> <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to Market Sectors." href="../index.htm" class="post post-page"><span property="name">Market Sectors</span></a>
+                        </span><i class="fa fa-angle-right"></i> <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to Market Sectors." href="../index.htm" class="post post-page"><span property="name">Products</span></a>
                         <meta property="position" content="2">
-                        </span><i class="fa fa-angle-right"></i> <span property="itemListElement" typeof="ListItem"><span property="name">Automotive Parts &#038; System</span>
+                        </span><i class="fa fa-angle-right"></i> <span property="itemListElement" typeof="ListItem"><span property="name">Oxygen</span>
                         <meta property="position" content="3">
                         </span>
                     </div>
@@ -34,7 +34,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-center-align" style="padding-bottom: 40px;">
                                             <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;">
-                                                <a class="gdlr-core-ilightbox gdlr-core-js " href="upload/traffic-car-vehicle-black.jpg"><img src="upload/traffic-car-vehicle-black-900x280.jpg" alt="" width="900" height="280"><span class="gdlr-core-image-overlay "><i class="gdlr-core-image-overlay-icon fa fa-search gdlr-core-size-22"></i></span></a>
+                                                <a class="gdlr-core-ilightbox gdlr-core-js " href="upload/traffic-car-vehicle-black.jpg"><img src="assets/upload/traffic-car-vehicle-black-900x280.jpg" alt="" width="900" height="280"><span class="gdlr-core-image-overlay "><i class="gdlr-core-image-overlay-icon fa fa-search gdlr-core-size-22"></i></span></a>
                                             </div>
                                         </div>
                                     </div>
@@ -135,9 +135,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                             </ul>
                                         </div>
                                     </div>
-                                    <div id="text-6" class="widget widget_text realfactory-widget">
-                                        <div class="textwidget"><a class="gdlr-core-button  gdlr-core-button-solid gdlr-core-button-no-border" href="contact.html" target="_parent" style="margin-right: 20px;border-radius: 3px;-moz-border-radius: 3px;-webkit-border-radius: 3px;background: #222 ;"><span class="gdlr-core-content">Get A Quote</span></a></div>
-                                    </div>
+                                    
                                 </div>
                             </div>
                         </div>

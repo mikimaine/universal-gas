@@ -7,7 +7,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <div class="realfactory-page-title-container realfactory-container">
                     <div class="realfactory-page-title-content realfactory-item-pdlr">
                         <h1 class="realfactory-page-title">About Us</h1>
-                        <div class="realfactory-page-caption">An introduction about who we are</div>
+                        <div class="realfactory-page-caption">-An introduction about who we are-</div>
                     </div>
                 </div>
             </div>

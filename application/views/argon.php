@@ -18,9 +18,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <div class="realfactory-breadcrumbs-container realfactory-container">
                     <div class="realfactory-breadcrumbs-item realfactory-item-pdlr"> <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to Real Factory." href="#" class="home"><span property="name">Home</span></a>
                         <meta property="position" content="1">
-                        </span><i class="fa fa-angle-right"></i> <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to Market Sectors." href="index.htm" class="post post-page"><span property="name">Market Sectors</span></a>
+                        </span><i class="fa fa-angle-right"></i> <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to Market Sectors." href="index.htm" class="post post-page"><span property="name">Products</span></a>
                         <meta property="position" content="2">
-                        </span><i class="fa fa-angle-right"></i> <span property="itemListElement" typeof="ListItem"><span property="name">Automotive Parts &#038; System</span>
+                        </span><i class="fa fa-angle-right"></i> <span property="itemListElement" typeof="ListItem"><span property="name">Argon</span>
                         <meta property="position" content="3">
                         </span>
                     </div>
@@ -35,7 +35,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-center-align" style="padding-bottom: 40px;">
                                             <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;">
-                                                <a class="gdlr-core-ilightbox gdlr-core-js " href="upload/shutterstock_134132600.jpg"><img src="upload/shutterstock_134132600-920x415.jpg" alt="" width="920" height="415"><span class="gdlr-core-image-overlay "><i class="gdlr-core-image-overlay-icon fa fa-search gdlr-core-size-22"></i></span></a>
+                                                <a class="gdlr-core-ilightbox gdlr-core-js " href="upload/shutterstock_134132600.jpg"><img src="assets/upload/shutterstock_134132600-920x415.jpg" alt="" width="920" height="415"><span class="gdlr-core-image-overlay "><i class="gdlr-core-image-overlay-icon fa fa-search gdlr-core-size-22"></i></span></a>
                                             </div>
                                         </div>
                                     </div>
@@ -140,9 +140,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                             </ul>
                                         </div>
                                     </div>
-                                    <div id="text-6" class="widget widget_text realfactory-widget">
-                                        <div class="textwidget"><a class="gdlr-core-button  gdlr-core-button-solid gdlr-core-button-no-border" href="contact.html" target="_parent" style="margin-right: 20px;border-radius: 3px;-moz-border-radius: 3px;-webkit-border-radius: 3px;background: #222 ;"><span class="gdlr-core-content">Get A Quote</span></a></div>
-                                    </div>
+                                
                                 </div>
                             </div>
                         </div>
@@ -150,69 +148,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 </div>
             </div>
 
-            <footer>
-                <div class="realfactory-footer-wrapper">
-                    <div class="realfactory-footer-container realfactory-container clearfix">
-                        <div class="realfactory-footer-column realfactory-item-pdlr realfactory-column-15">
-                            <div id="text-3" class="widget widget_text realfactory-widget">
-                                <div class="textwidget"><span class="gdlr-core-space-shortcode" style="margin-top: -2px;"></span> <img src="upload/logo-white.png" alt=""> <span class="gdlr-core-space-shortcode" style="margin-top: 7px;"></span>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</div>
-                            </div>
-                        </div>
-                        <div class="realfactory-footer-column realfactory-item-pdlr realfactory-column-15">
-                            <div id="nav_menu-4" class="widget widget_nav_menu realfactory-widget">
-                                <h3 class="realfactory-widget-title">Market Sectors</h3>
-                                <div class="menu-market-sectors-container">
-                                    <ul id="menu-market-sectors" class="menu">
-                                        <li class="menu-item"><a href="automotive-parts-system.html">Automotive Parts &#038; System</a></li>
-                                        <li class="menu-item"><a href="construction-engineering.html">Construction &#038; Engineering</a></li>
-                                        <li class="menu-item"><a href="power-energy.html">Power &#038; Energy</a></li>
-                                        <li class="menu-item"><a href="aero-space.html">Aero Space</a></li>
-                                        <li class="menu-item"><a href="ship-building-insudtry.html">Ship Building Industry</a></li>
-                                        <li class="menu-item"><a href="railway.html">Railway</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="realfactory-footer-column realfactory-item-pdlr realfactory-column-15">
-                            <div id="recent-posts-3" class="widget widget_recent_entries realfactory-widget">
-                                <h3 class="realfactory-widget-title">Recent Posts</h3>
-                                <ul>
-                                    <li> <a href="#">Gallery Post Format</a></li>
-                                    <li> <a href="#">Possession of my entire soul</a></li>
-                                    <li> <a href="#">Audio Post Format</a></li>
-                                    <li> <a href="#">Quote Post Format</a></li>
-                                    <li> <a href="#">I sink under the weight of the splendour</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="realfactory-footer-column realfactory-item-pdlr realfactory-column-15">
-                            <div id="text-7" class="widget widget_text realfactory-widget">
-                                <h3 class="realfactory-widget-title">Contact Info</h3>
-                                <div class="textwidget">
-                                    <p><i class="fa fa-location-arrow" style="font-size: 20px;color: #f7c02e;margin-left: 0px;margin-right: 10px;"></i> 12 Main Street Pt. London
-                                        <br> <span class="gdlr-core-space-shortcode" style="margin-top: -6px;"></span>
-                                        <br> <i class="fa fa-phone" style="font-size: 20px;color: #f7c02e;margin-right: 10px;"></i> +44 3656 4567
-                                        <br> <span class="gdlr-core-space-shortcode" style="margin-top: -6px;"></span>
-                                        <br> <i class="fa fa-envelope-o" style="font-size: 20px;color: #f7c02e;margin-left: 0px;margin-right: 10px;"></i> contact@realfactoryWP.com</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="realfactory-copyright-wrapper">
-                    <div class="realfactory-copyright-container realfactory-container">
-                        <div class="realfactory-copyright-text realfactory-item-pdlr">Copyright 2018 max-themes, All Right Reserved</div>
-                    </div>
-                </div>
-            </footer>
+
         </div>
     </div>
 
-    <script type='text/javascript' src='js/jquery/jquery.js'></script>
-    <script type='text/javascript' src='js/jquery/jquery-migrate.min.js'></script>
-    <script type='text/javascript' src='js/jquery/ui/effect.min.js'></script>
-    <script type='text/javascript' src='js/script.js'></script>
-    <script type='text/javascript' src='plugins/goodlayers-core/plugins/combine/script.js'></script>
-    <script type='text/javascript' src='plugins/goodlayers-core/include/js/page-builder.js'></script>
-</body>
-</html>
+    
