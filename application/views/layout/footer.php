@@ -4,21 +4,21 @@
 
                         <div class="realfactory-footer-column realfactory-item-pdlr realfactory-column-15">
                             <div id="nav_menu-4" class="widget widget_nav_menu realfactory-widget">
-                                <h3 class="realfactory-widget-title">Market Sectors</h3>
+                                <h3 class="realfactory-widget-title">products</h3>
                                 <div class="menu-market-sectors-container">
                                     <ul id="menu-market-sectors" class="menu">
-                                        <li class="menu-item"><a href="<?php echo site_url('/welcome/product') ?>">Chemical processing &#038; Paper manufacturing </a></li>
-                                        <li class="menu-item"><a href="<?php echo site_url('/welcome/product') ?>">Metal fabrications</a></li>
-                                        <li class="menu-item"><a href="<?php echo site_url('/welcome/product') ?>">Basic consumption</a></li>
-                                        <li class="menu-item"><a href="<?php echo site_url('/welcome/product') ?>">Packed food suplier companies</a></li>
-                                        <li class="menu-item"><a href="<?php echo site_url('/welcome/product') ?>">Hospitals &#038; Clinics</a></li>
+                                        <li class="menu-item"><a href="<?php echo site_url('/welcome/oxygen') ?>">Oxygen</a></li>
+                                        <li class="menu-item"><a href="<?php echo site_url('/welcome/nitrogen') ?>">Nitrogen</a></li>
+                                        <li class="menu-item"><a href="<?php echo site_url('/welcome/argon') ?>">Argon</a></li>
+                                        <li class="menu-item"><a href="<?php echo site_url('/welcome/acetylene') ?>">Acetylene</a></li>
+                                        <li class="menu-item"><a href="<?php echo site_url('/welcome/cylinders') ?>">Cylinders</a></li>
                                     </ul>
                                 </div>
                             </div>
                         </div>
                         <div class="realfactory-footer-column realfactory-item-pdlr realfactory-column-15">
                             <div id="recent-posts-3" class="widget widget_recent_entries realfactory-widget">
-                                <h3 class="realfactory-widget-title">Here is a little about us</h3>
+                                <h3 class="realfactory-widget-title">About us</h3>
                                 <ul>
                                     <li> 
                                         <p>
@@ -33,11 +33,13 @@
                             <div id="text-7" class="widget widget_text realfactory-widget">
                                 <h3 class="realfactory-widget-title">Contact Info</h3>
                                 <div class="textwidget">
-                                    <p><i class="fa fa-location-arrow" style="font-size: 20px;color: #f7c02e;margin-left: 0px;margin-right: 10px;"></i> Adama/Nazreth,Ethiopia
+                                    <p><i class="fa fa-location-arrow" style="font-size: 20px;color: #f7c02e;margin-left: 0px;margin-right: 10px;"></i> Adama/Nazreth, Ethiopia
                                         <br> <span class="gdlr-core-space-shortcode" style="margin-top: -6px;"></span>
                                         <br> <i class="fa fa-phone" style="font-size: 20px;color: #f7c02e;margin-right: 10px;"></i>+251 221 126427
                                         <br> <span class="gdlr-core-space-shortcode" style="margin-top: -6px;"></span>
-                                        <br> <i class="fa fa-envelope-o" style="font-size: 20px;color: #f7c02e;margin-left: 0px;margin-right: 10px;"></i> mauniversalgas@gmail.com</p>
+                                        <br> <i class="fa fa-envelope-o" style="font-size: 20px;color: #f7c02e;margin-left: 0px;margin-right: 10px;"></i> mauniversalgas@gmail.com
+                                        <br> <span class="gdlr-core-space-shortcode" style="margin-top: -6px;"></span>
+                                        <br> <i class="fa fa-clock-o" style="font-size: 20px;color: #f7c02e;margin-left: 0px;margin-right: 10px;"></i> Mon - Fri 2:30 - 11:30</p>
                                 </div>
                             </div>
                         </div>
@@ -46,11 +48,13 @@
                             <div id="text-7" class="widget widget_text realfactory-widget">
                                 <h3 class="realfactory-widget-title">Sales office</h3>
                                 <div class="textwidget">
-                                    <p><i class="fa fa-location-arrow" style="font-size: 20px;color: #f7c02e;margin-left: 0px;margin-right: 10px;"></i> Addis Ababa,Ethiopia
+                                    <p><i class="fa fa-location-arrow" style="font-size: 20px;color: #f7c02e;margin-left: 0px;margin-right: 10px;"></i> Addis Ababa, Ethiopia
                                         <br> <span class="gdlr-core-space-shortcode" style="margin-top: -6px;"></span>
                                         <br> <i class="fa fa-phone" style="font-size: 20px;color: #f7c02e;margin-right: 10px;"></i> +251-911-201434
                                         <br> <span class="gdlr-core-space-shortcode" style="margin-top: -6px;"></span>
-                                        <br> <i class="fa fa-envelope-o" style="font-size: 20px;color: #f7c02e;margin-left: 0px;margin-right: 10px;"></i> mauniversalgas@gmail.com</p>
+                                        <br> <i class="fa fa-envelope-o" style="font-size: 20px;color: #f7c02e;margin-left: 0px;margin-right: 10px;"></i> mauniversalgas@gmail.com
+                                        <br> <span class="gdlr-core-space-shortcode" style="margin-top: -6px;"></span>
+                                        <br> <i class="fa fa-clock-o" style="font-size: 20px;color: #f7c02e;margin-left: 0px;margin-right: 10px;"></i> Mon - Fri 2:30 - 11:30</p>
                                 </div>
                             </div>
                         </div>
@@ -58,8 +62,9 @@
                 </div>
                 <div class="realfactory-copyright-wrapper">
                     <div class="realfactory-copyright-container realfactory-container">
-                        <div class="realfactory-copyright-text realfactory-item-pdlr">Copyright© 2019, MA UNIVERSAL GAS PLANT</div>
-                    </div>
+                        <div class="realfactory-copyright-text realfactory-item-pdlr">© 2019 -<a href="/">Universal Gas Plant</a>. Proudly Developed by <a href="http://www.etmsoftwareplc.com" target="_blank">ETM Software Development</a>.</div>
+
+
                 </div>
             </footer>
         </div>

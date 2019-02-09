@@ -7,7 +7,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <div class="realfactory-page-title-container realfactory-container">
                     <div class="realfactory-page-title-content realfactory-item-pdlr">
                         <h1 class="realfactory-page-title">About Us</h1>
-                        <div class="realfactory-page-caption">-An introduction about who we are-</div>
+                        <div class="realfactory-page-caption">An introduction about who we are</div>
                     </div>
                 </div>
             </div>
@@ -90,7 +90,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                                         <div class="gdlr-core-column-service-title-wrap">
                                                             <h3 class="gdlr-core-column-service-title" style="font-size: 21px;text-transform: none;">IT IS SCIENTIFIC</h3></div>
                                                         <div class="gdlr-core-column-service-content" style="font-size: 16px;">
-                                                            <p>Maecenas faucibus mollis interdum. Donec id elit non mi porta gravida at eget metus. Aenean lacinia. </p>
+                                                            <p>We use scientifically perfect designs for the production of the gases. </p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -102,7 +102,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                                         <div class="gdlr-core-column-service-title-wrap">
                                                             <h3 class="gdlr-core-column-service-title" style="font-size: 21px;text-transform: none;">ULTRA HIGH PURITY</h3></div>
                                                         <div class="gdlr-core-column-service-content" style="font-size: 16px;">
-                                                            <p>Maecenas faucibus mollis interdum. Donec id elit non mi porta gravida at eget metus. Aenean lacinia. </p>
+                                                            <p>The current methods of gas production contributes to high quality products. 
+                                                            </p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -114,7 +115,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                                         <div class="gdlr-core-column-service-title-wrap">
                                                             <h3 class="gdlr-core-column-service-title" style="font-size: 21px;text-transform: none;">STATE OF THE ART TECHNOLOGY</h3></div>
                                                         <div class="gdlr-core-column-service-content" style="font-size: 16px;">
-                                                            <p>Maecenas faucibus mollis interdum. Donec id elit non mi porta gravida at eget metus. Aenean lacinia. </p>
+                                                            <p> The use of latest technology is playing a great role in the manufacturing process. </p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -154,19 +155,19 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                                         </div>
                                                     </div>
                                                     <div class="gdlr-core-skill-bar">
-                                                        <div class="gdlr-core-skill-bar-head gdlr-core-title-font"><span class="gdlr-core-skill-bar-title">EPC Works</span><span class="gdlr-core-skill-bar-right">100%</span></div>
+                                                        <div class="gdlr-core-skill-bar-head gdlr-core-title-font"><span class="gdlr-core-skill-bar-title">Quality of products</span><span class="gdlr-core-skill-bar-right">99%</span></div>
                                                         <div class="gdlr-core-skill-bar-progress">
-                                                            <div class="gdlr-core-skill-bar-filled gdlr-core-js" data-width="100"></div>
+                                                            <div class="gdlr-core-skill-bar-filled gdlr-core-js" data-width="99"></div>
                                                         </div>
                                                     </div>
                                                     <div class="gdlr-core-skill-bar">
-                                                        <div class="gdlr-core-skill-bar-head gdlr-core-title-font"><span class="gdlr-core-skill-bar-title">Customer Satisfaction</span><span class="gdlr-core-skill-bar-right">85%</span></div>
+                                                        <div class="gdlr-core-skill-bar-head gdlr-core-title-font"><span class="gdlr-core-skill-bar-title">Customer Satisfaction</span><span class="gdlr-core-skill-bar-right">90%</span></div>
                                                         <div class="gdlr-core-skill-bar-progress">
-                                                            <div class="gdlr-core-skill-bar-filled gdlr-core-js" data-width="85"></div>
+                                                            <div class="gdlr-core-skill-bar-filled gdlr-core-js" data-width="90"></div>
                                                         </div>
                                                     </div>
                                                     <div class="gdlr-core-skill-bar">
-                                                        <div class="gdlr-core-skill-bar-head gdlr-core-title-font"><span class="gdlr-core-skill-bar-title">Utilization Rate</span><span class="gdlr-core-skill-bar-right">90%</span></div>
+                                                        <div class="gdlr-core-skill-bar-head gdlr-core-title-font"><span class="gdlr-core-skill-bar-title">Experience</span><span class="gdlr-core-skill-bar-right">95%</span></div>
                                                         <div class="gdlr-core-skill-bar-progress">
                                                             <div class="gdlr-core-skill-bar-filled gdlr-core-js" data-width="90"></div>
                                                         </div>

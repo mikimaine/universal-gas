@@ -27,20 +27,7 @@
                     </div>
                 </div>
                 <div class="realfactory-mobile-menu-right">
-                    <div class="realfactory-main-menu-search" id="realfactory-mobile-top-search"><i class="fa fa-search"></i></div>
-                    <div class="realfactory-top-search-wrap">
-                        <div class="realfactory-top-search-close"></div>
-                        <div class="realfactory-top-search-row">
-                            <div class="realfactory-top-search-cell">
-                                <form role="search" method="get" class="search-form" action="index.html">
-                                    <input type="text" class="search-field realfactory-title-font" placeholder="Search..." value="" name="s">
-                                    <div class="realfactory-top-search-submit"><i class="fa fa-search"></i></div>
-                                    <input type="submit" class="search-submit" value="Search">
-                                    <div class="realfactory-top-search-close"><i class="icon_close"></i></div>
-                                </form>
-                            </div>
-                        </div>
-                    </div>
+                   
 
                     <div class="realfactory-mobile-menu"><a class="realfactory-mm-menu-button realfactory-mobile-menu-button realfactory-mobile-button-hamburger-with-border" href="#realfactory-mobile-menu"><i class="fa fa-bars"></i></a>
                         <div class="realfactory-mm-menu-wrap realfactory-navigation-font" id="realfactory-mobile-menu" data-slide="right">
@@ -65,35 +52,13 @@
     </div>
     <div class="realfactory-body-outer-wrapper ">
         <div class="realfactory-body-wrapper clearfix  realfactory-with-transparent-navigation realfactory-with-frame">
-            <div class="realfactory-top-bar">
-                <div class="realfactory-top-bar-background"></div>
-                <div class="realfactory-top-bar-container clearfix realfactory-container ">
-                    <div class="realfactory-top-bar-left realfactory-item-pdlr">
-                        <div class="gdlr-core-dropdown-tab gdlr-core-js clearfix">
-                            <div class="gdlr-core-dropdown-tab-title"><span class="gdlr-core-head">ADAMA NAZRETH</span>
-                                <div class="gdlr-core-dropdown-tab-head-wrap">
-                                    <div class="gdlr-core-dropdown-tab-head gdlr-core-active" data-index="0">ADAMA</div>
-                                    <div class="gdlr-core-dropdown-tab-head " data-index="1">ADISS ABABA sales office</div>
-                                </div>
-                            </div>
-                            <div class="gdlr-core-dropdown-tab-content-wrap">
-                                <div class="gdlr-core-dropdown-tab-content gdlr-core-active" data-index="0"><i class="fa fa-phone" style="font-size: 16px;color: #f7c02e;margin-right: 10px;"></i> +251-221-126427 <i class="fa fa-clock-o" style="font-size: 16px;color: #f7c02e;margin-left: 24px;margin-right: 10px;"></i> Mon - Fri 2:30 - 11:30 <i class="fa fa-location-arrow" style="font-size: 16px;color: #f7c02e;margin-left: 24px;margin-right: 10px;"></i>P.O.Box 104</div>
-                                <div class="gdlr-core-dropdown-tab-content " data-index="1"><i class="fa fa-phone" style="font-size: 16px;color: #f7c02e;margin-right: 10px;"></i> +251-911-201434 <i class="fa fa-clock-o" style="font-size: 16px;color: #f7c02e;margin-left: 24px;margin-right: 10px;"></i> Mon - Fri 2:30 - 11:30 <i class="fa fa-location-arrow" style="font-size: 16px;color: #f7c02e;margin-left: 24px;margin-right: 10px;"></i>P.O.Box 4787</div>
-                                 </div>
-                            </div>
-                    </div>
-                    <div class="realfactory-top-bar-right realfactory-item-pdlr">
-                        <div class="realfactory-top-bar-right-social"><a href="mailto:mauniversalgas@gmail.com" target="_blank" class="realfactory-top-bar-social-icon" title="email"><i class="fa fa-envelope"></i>  mauniversalgas@gmail.com</a></div>
-                    </div>
-                </div>
-            </div>
-
+            
             <header class="realfactory-header-wrap realfactory-header-style-bar realfactory-header-background  realfactory-style-left">
                 <div class="realfactory-header-container clearfix  realfactory-container">
                     <div class="realfactory-header-container-inner">
                         <div class="realfactory-logo  realfactory-item-pdlr">
                             <div class="realfactory-logo-inner">
-                                <a href="index.html"><img src="/assets/images/logo.png" alt=""></a>
+                                <a href="index.html"><img src="/assets/upload/logo.png" alt=""></a>
                             </div>
                         </div>
                         <div class="realfactory-logo-right-text realfactory-item-pdlr">
@@ -114,7 +79,7 @@
                                     <div class="realfactory-logo-right-block-title realfactory-title-font">Number #1</div>
                                     <div class="realfactory-logo-right-block-caption realfactory-title-font">The only liquid nitrogen Suplier in Ethiopia</div>
                                 </div>
-                                </div><a class="realfactory-header-right-button" href="contact.html" target="_self">Contact us</a></div>
+                                </div><a class="realfactory-header-right-button" href="<?php echo site_url('/welcome/contact') ?>" target="_self">Contact us</a></div>
                     </div>
                 </div>
             </header>

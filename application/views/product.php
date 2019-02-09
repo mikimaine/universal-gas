@@ -90,19 +90,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="gdlr-core-pbf-element">
-                                                    <div class="gdlr-core-social-share-item gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-social-share-left-text gdlr-core-item-pdlr">
-                                                        <span class="gdlr-core-social-share-wrap">
-                                                            <a class="gdlr-core-social-share-facebook" href="#" target="_blank" style="font-size: 18px;"><i class="fa fa-facebook"></i></a>
-                                                            <a class="gdlr-core-social-share-linkedin" href="#" target="_blank" style="font-size: 18px;"><i class="fa fa-linkedin"></i></a>
-                                                            <a class="gdlr-core-social-share-google-plus" href="#" target="_blank" style="font-size: 18px;"><i class="fa fa-google-plus"></i></a>
-                                                            <a class="gdlr-core-social-share-pinterest" href="#" target="_blank" style="font-size: 18px;"><i class="fa fa-pinterest-p"></i></a>
-                                                            <a class="gdlr-core-social-share-stumbleupon" href="#" target="_blank" style="font-size: 18px;"><i class="fa fa-stumbleupon"></i></a>
-                                                            <a class="gdlr-core-social-share-twitter" href="#" target="_blank" style="font-size: 18px;"><i class="fa fa-twitter"></i></a>
-                                                            <a class="gdlr-core-social-share-email" href="#" style="font-size: 18px;"><i class="fa fa-envelope"></i></a>
-                                                        </span>
-                                                    </div>
-                                                </div>
+                                                
                                             </div>
                                         </div>
                                     </div>

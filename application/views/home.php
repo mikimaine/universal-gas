@@ -15,8 +15,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                                         <div class="tp-caption   tp-resizeme" id="slide-1-layer-1" data-x="24" data-y="center" data-voffset="-156" data-width="['auto']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"from":"z:0;rX:0;rY:0;rZ:0;sX:0.8;sY:0.8;skX:0;skY:0;opacity:0;","speed":260,"to":"o:1;","delay":500,"ease":"Power4.easeOut"},{"delay":"wait","speed":300,"to":"opacity:0;","ease":"nothing"}]' data-textalign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 5; white-space: nowrap; font-size: 50px; font-weight: 400; color: rgba(248,193,44,1);font-family:Hind;">Welcome To</div>
                                                         <div class="tp-caption   tp-resizeme" id="slide-1-layer-2" data-x="17" data-y="center" data-voffset="-49" data-width="['auto']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"from":"x:-50px;opacity:0;","speed":300,"to":"o:1;","delay":830,"ease":"Power2.easeOut"},{"delay":"wait","speed":300,"to":"opacity:0;","ease":"nothing"}]' data-textalign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 6; white-space: nowrap; font-size: 130px; font-weight: 700; color: rgba(247,247,247,1);font-family:Hind;">Universal</div>
                                                         <div class="tp-caption   tp-resizeme" id="slide-1-layer-3" data-x="575" data-y="center" data-voffset="-51" data-width="['auto']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"from":"x:50px;opacity:0;","speed":300,"to":"o:1;","delay":1150,"ease":"Power2.easeOut"},{"delay":"wait","speed":300,"to":"opacity:0;","ease":"nothing"}]' data-textalign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 7; white-space: nowrap; font-size: 130px; font-weight: 700; color: rgba(248,193,44,1);font-family:Hind;">Gas Plant</div>
-                                                        <div class="tp-caption   tp-resizeme" id="slide-1-layer-4" data-x="27" data-y="center" data-voffset="44" data-width="['666']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"from":"z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;","speed":300,"to":"o:1;","delay":1460,"ease":"Power2.easeOut"},{"delay":"wait","speed":300,"to":"opacity:0;","ease":"nothing"}]' data-textalign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 8; min-width: 666px; max-width: 666px; white-space: normal; font-size: 20px; line-height: 30px; font-weight: 400; color: rgba(255,255,255,1);font-family:Hind;">The only liquid nitrogen manufacturer in ethiopia.</div>
-                                                        <div class="tp-caption rev-btn " id="slide-1-layer-6" data-x="26" data-y="center" data-voffset="130" data-width="['auto']" data-height="['auto']" data-type="button" data-responsive_offset="on" data-responsive="off" data-frames='[{"from":"z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;","speed":300,"to":"o:1;","delay":1770,"ease":"Power2.easeOut"},{"delay":"wait","speed":300,"to":"opacity:0;","ease":"nothing"},{"frame":"hover","speed":"0","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0,0,0,1);bg:rgba(247,204,86,1);"}]' data-textalign="['left','left','left','left']" data-paddingtop="[17,17,17,17]" data-paddingright="[34,34,34,34]" data-paddingbottom="[17,17,17,17]" data-paddingleft="[34,34,34,34]" style="z-index: 9; white-space: nowrap; font-size: 14px; line-height: 17px; font-weight: 600; color: rgba(10,10,10,1);font-family:Hind;background-color:rgba(248,193,44,1);border-radius:3px 3px 3px 3px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">Learn More</div>
+                                                        <div class="tp-caption   tp-resizeme" id="slide-1-layer-4" data-x="27" data-y="center" data-voffset="44" data-width="['666']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"from":"z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;","speed":300,"to":"o:1;","delay":1460,"ease":"Power2.easeOut"},{"delay":"wait","speed":300,"to":"opacity:0;","ease":"nothing"}]' data-textalign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 8; min-width: 666px; max-width: 666px; white-space: normal; font-size: 20px; line-height: 30px; font-weight: 400; color: rgba(255,255,255,1);font-family:Hind;">The only liquid nitrogen manufacturer in Ethiopia.</div>
+                                                        <div class="tp-caption rev-btn " id="slide-1-layer-6" data-x="26" data-y="center" data-voffset="130" data-width="['auto']" data-height="['auto']" data-type="button" data-responsive_offset="on" data-responsive="off" data-frames='[{"from":"z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;","speed":300,"to":"o:1;","delay":1770,"ease":"Power2.easeOut"},{"delay":"wait","speed":300,"to":"opacity:0;","ease":"nothing"},{"frame":"hover","speed":"0","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0,0,0,1);bg:rgba(247,204,86,1);"}]' data-textalign="['left','left','left','left']" data-paddingtop="[17,17,17,17]" data-paddingright="[34,34,34,34]" data-paddingbottom="[17,17,17,17]" data-paddingleft="[34,34,34,34]" style="z-index: 9; white-space: nowrap; font-size: 14px; line-height: 17px; font-weight: 600; color: rgba(10,10,10,1);font-family:Hind;background-color:rgba(248,193,44,1);border-radius:3px 3px 3px 3px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;"><a href="<?php echo site_url('/welcome/aboutus') ?>" >About us</a></div>
                                                     </li>
                                                     <li data-index="rs-3" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300" data-thumb="/assets/upload/slider-3-100x50.jpg" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description=""> <img src="/assets/upload/slider-3.jpg" alt="" title="slider-3" width="1800" height="827" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina="">
                                                         <div class="tp-caption   tp-resizeme" id="slide-3-layer-3" data-x="24" data-y="center" data-voffset="31" data-width="['auto']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"from":"x:50px;opacity:0;","speed":300,"to":"o:1;","delay":340,"ease":"Power2.easeOut"},{"delay":"wait","speed":300,"to":"opacity:0;","ease":"nothing"}]' data-textalign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 10; white-space: nowrap; font-size: 70px; font-weight: 700; color: rgba(248,193,44,1);font-family:Hind;">Experienced Professionals</div>
@@ -54,7 +54,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                             <div class="gdlr-core-pbf-element">
                                                 <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-center-align gdlr-core-title-item-caption-bottom gdlr-core-item-pdlr" style="padding-bottom: 0px;">
                                                     <div class="gdlr-core-title-item-title-wrap ">
-                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 23px;font-weight: 500;letter-spacing: 0px;text-transform: none;">SCIENTIFIC<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider"></span></h3></div><span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" style="font-size: 18px;font-weight: 300;font-style: normal;color: #0a0a0a;">highly experienced & skilled engineers</span></div>
+                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 23px;font-weight: 500;letter-spacing: 0px;text-transform: none;">SCIENTIFIC<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider"></span></h3></div><span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" style="font-size: 18px;font-weight: 300;font-style: normal;color: #0a0a0a;">Highly experienced & skilled Engineers</span></div>
                                             </div>
                                         </div>
                                     </div>
@@ -82,7 +82,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                             <div class="gdlr-core-pbf-element">
                                                 <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-center-align gdlr-core-title-item-caption-bottom gdlr-core-item-pdlr" style="padding-bottom: 0px;">
                                                     <div class="gdlr-core-title-item-title-wrap ">
-                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 23px;font-weight: 300;letter-spacing: 0px;text-transform: none;color: #f8c12c;">LATEST TECHNOLOGY<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider"></span></h3></div><span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" style="font-size: 18px;font-weight: 300;font-style: normal;color: #ffffff;"> world class manufacturing plant</span></div>
+                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 23px;font-weight: 300;letter-spacing: 0px;text-transform: none;color: #f8c12c;">LATEST TECHNOLOGY<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider"></span></h3></div><span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" style="font-size: 18px;font-weight: 300;font-style: normal;color: #ffffff;"> World class manufacturing plant</span></div>
                                             </div>
                                         </div>
                                     </div>
@@ -121,10 +121,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-button-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align"><a class="gdlr-core-button  gdlr-core-button-solid gdlr-core-button-no-border" href="#" style="color: #f8c12c;padding: 15px 30px 15px 30px;margin: 0px 10px 10px 0px;border-radius: 3px;-moz-border-radius: 3px;-webkit-border-radius: 3px;background: #303030 ;"><span class="gdlr-core-content">Learn More</span></a>
-                                                </div>
-                                            </div>
+                                           
                                         </div>
                                     </div>
                                 </div>
@@ -141,8 +138,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                     <div class="gdlr-core-call-to-action-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-style-left-align-right-button" style="padding-bottom: 0px;">
                                         <div class="gdlr-core-call-to-action-item-inner">
                                             <div class="gdlr-core-call-to-action-item-content-wrap">
-                                                <h3 class="gdlr-core-call-to-action-item-title" style="font-size: 26px;font-weight: 300;letter-spacing: 0px;">We have Got Many Ceritificates Since the Foundation of the Company</h3></div>
-                                            <div class="gdlr-core-call-to-action-item-button"><a class="gdlr-core-button  gdlr-core-button-solid gdlr-core-button-no-border" href="#" style="border-radius: 3px;-moz-border-radius: 3px;-webkit-border-radius: 3px;"><span class="gdlr-core-content">Learn More</span></a></div>
+                                                <h3 class="gdlr-core-call-to-action-item-title" align =center style="font-size: 26px;font-weight: 300;letter-spacing: 0px;">We have got many ceritificates since the foundation of the company</h3></div>
+                                            
                                         </div>
                                     </div>
                                 </div>
@@ -166,14 +163,14 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                             <div class="gdlr-core-pbf-element">
                                                 <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-center-align" style="padding-bottom: 35px;">
                                                     <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-round" style="border-width: 0px;">
-                                                        <a href="#" target="_self"><img src="/assets/upload/shutterstock_189361109-800x420.jpg" alt="" width="800" height="420"><span class="gdlr-core-image-overlay " style="background: rgba(236, 182, 34, 0.6) ;"><i class="gdlr-core-image-overlay-icon fa fa-link gdlr-core-size-28" style="color: #ffffff;"></i></span></a>
+                                                        <a href="<?php echo site_url('/welcome/oxygen') ?>" target="_self"><img src="/assets/upload/shutterstock_189361109-800x420.jpg" alt="" width="800" height="420"><span class="gdlr-core-image-overlay " style="background: rgba(236, 182, 34, 0.6) ;"><i class="gdlr-core-image-overlay-icon fa fa-link gdlr-core-size-28" style="color: #ffffff;"></i></span></a>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="gdlr-core-pbf-element">
                                                 <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 20px;">
                                                     <div class="gdlr-core-title-item-title-wrap ">
-                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 20px;font-weight: 500;letter-spacing: 0px;text-transform: none;"><a href="#" target="_self">Oxygen</a><span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider"></span></h3></div>
+                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 20px;font-weight: 500;letter-spacing: 0px;text-transform: none;"><a href="<?php echo site_url('/welcome/oxygen') ?>" target="_self">Oxygen</a><span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider"></span></h3></div>
                                                 </div>
                                             </div>
                                             <div class="gdlr-core-pbf-element">
@@ -192,14 +189,14 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                             <div class="gdlr-core-pbf-element">
                                                 <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-center-align" style="padding-bottom: 35px;">
                                                     <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-round" style="border-width: 0px;">
-                                                        <a href="#" target="_self"><img src="/assets/upload/shutterstock_134132600-800x420.jpg" alt="" width="800" height="420"><span class="gdlr-core-image-overlay " style="background: rgba(236, 182, 34, 0.6) ;"><i class="gdlr-core-image-overlay-icon fa fa-link gdlr-core-size-28" style="color: #ffffff;"></i></span></a>
+                                                        <a href="<?php echo site_url('/welcome/nirogen') ?>" target="_self"><img src="/assets/upload/shutterstock_134132600-800x420.jpg" alt="" width="800" height="420"><span class="gdlr-core-image-overlay " style="background: rgba(236, 182, 34, 0.6) ;"><i class="gdlr-core-image-overlay-icon fa fa-link gdlr-core-size-28" style="color: #ffffff;"></i></span></a>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="gdlr-core-pbf-element">
                                                 <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 20px;">
                                                     <div class="gdlr-core-title-item-title-wrap ">
-                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 20px;font-weight: 500;letter-spacing: 0px;text-transform: none;"><a href="#" target="_self">Nitrogen</a><span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider"></span></h3></div>
+                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 20px;font-weight: 500;letter-spacing: 0px;text-transform: none;"><a href="<?php echo site_url('/welcome/nitrogen') ?>" target="_self">Nitrogen</a><span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider"></span></h3></div>
                                                 </div>
                                             </div>
                                             <div class="gdlr-core-pbf-element">
@@ -219,14 +216,14 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                             <div class="gdlr-core-pbf-element">
                                                 <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-center-align" style="padding-bottom: 35px;">
                                                     <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-round" style="border-width: 0px;">
-                                                        <a href="#" target="_self"><img src="/assets/upload/shutterstock_161515241-800x420.jpg" alt="" width="800" height="420"><span class="gdlr-core-image-overlay " style="background: rgba(236, 182, 34, 0.6) ;"><i class="gdlr-core-image-overlay-icon fa fa-link gdlr-core-size-28" style="color: #ffffff;"></i></span></a>
+                                                        <a href="<?php echo site_url('/welcome/argon') ?>" target="_self"><img src="/assets/upload/shutterstock_161515241-800x420.jpg" alt="" width="800" height="420"><span class="gdlr-core-image-overlay " style="background: rgba(236, 182, 34, 0.6) ;"><i class="gdlr-core-image-overlay-icon fa fa-link gdlr-core-size-28" style="color: #ffffff;"></i></span></a>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="gdlr-core-pbf-element">
                                                 <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 20px;">
                                                     <div class="gdlr-core-title-item-title-wrap ">
-                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 20px;font-weight: 500;letter-spacing: 0px;text-transform: none;"><a href="#" target="_self">Argon</a><span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider"></span></h3></div>
+                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 20px;font-weight: 500;letter-spacing: 0px;text-transform: none;"><a href="<?php echo site_url('/welcome/argon') ?>" target="_self">Argon</a><span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider"></span></h3></div>
                                                 </div>
                                             </div>
                                             <div class="gdlr-core-pbf-element">
@@ -245,14 +242,14 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                             <div class="gdlr-core-pbf-element">
                                                 <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-center-align" style="padding-bottom: 35px;">
                                                     <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-round" style="border-width: 0px;">
-                                                        <a href="#" target="_self"><img src="/assets/upload/shutterstock_28260298-800x420.jpg" alt="" width="800" height="420"><span class="gdlr-core-image-overlay " style="background: rgba(236, 182, 34, 0.6) ;"><i class="gdlr-core-image-overlay-icon fa fa-link gdlr-core-size-28" style="color: #ffffff;"></i></span></a>
+                                                        <a href="<?php echo site_url('/welcome/acetylene') ?>" target="_self"><img src="/assets/upload/shutterstock_28260298-800x420.jpg" alt="" width="800" height="420"><span class="gdlr-core-image-overlay " style="background: rgba(236, 182, 34, 0.6) ;"><i class="gdlr-core-image-overlay-icon fa fa-link gdlr-core-size-28" style="color: #ffffff;"></i></span></a>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="gdlr-core-pbf-element">
                                                 <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 20px;">
                                                     <div class="gdlr-core-title-item-title-wrap ">
-                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 20px;font-weight: 500;letter-spacing: 0px;text-transform: none;"><a href="#" target="_self">Acetylene</a><span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider"></span></h3></div>
+                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 20px;font-weight: 500;letter-spacing: 0px;text-transform: none;"><a href="<?php echo site_url('/welcome/acetylene') ?>" target="_self">Acetylene</a><span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider"></span></h3></div>
                                                 </div>
                                             </div>
                                             <div class="gdlr-core-pbf-element">
@@ -272,14 +269,14 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                             <div class="gdlr-core-pbf-element">
                                                 <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-center-align" style="padding-bottom: 35px;">
                                                     <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-round" style="border-width: 0px;">
-                                                        <a href="#" target="_self"><img src="/assets/upload/amsterdam-ship-bay-harbor-68135-800x420.jpeg" alt="" width="800" height="420"><span class="gdlr-core-image-overlay " style="background: rgba(236, 182, 34, 0.6) ;"><i class="gdlr-core-image-overlay-icon fa fa-link gdlr-core-size-28" style="color: #ffffff;"></i></span></a>
+                                                        <a href="<?php echo site_url('/welcome/cylinders') ?>" target="_self"><img src="/assets/upload/amsterdam-ship-bay-harbor-68135-800x420.jpeg" alt="" width="800" height="420"><span class="gdlr-core-image-overlay " style="background: rgba(236, 182, 34, 0.6) ;"><i class="gdlr-core-image-overlay-icon fa fa-link gdlr-core-size-28" style="color: #ffffff;"></i></span></a>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="gdlr-core-pbf-element">
                                                 <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 20px;">
                                                     <div class="gdlr-core-title-item-title-wrap ">
-                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 20px;font-weight: 500;letter-spacing: 0px;text-transform: none;"><a href="#" target="_self">Cylinders</a><span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider"></span></h3></div>
+                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 20px;font-weight: 500;letter-spacing: 0px;text-transform: none;"><a href="<?php echo site_url('/welcome/cylinders') ?>" target="_self">Cylinders</a><span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider"></span></h3></div>
                                                 </div>
                                             </div>
                                             <div class="gdlr-core-pbf-element">
@@ -298,14 +295,14 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                             <div class="gdlr-core-pbf-element">
                                                 <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-center-align" style="padding-bottom: 35px;">
                                                     <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-round" style="border-width: 0px;">
-                                                        <a href="#" target="_self"><img src="/assets/upload/train-railway-s-bahn-transport-800x420.jpg" alt="" width="800" height="420"><span class="gdlr-core-image-overlay " style="background: rgba(236, 182, 34, 0.6) ;"><i class="gdlr-core-image-overlay-icon fa fa-link gdlr-core-size-28" style="color: #ffffff;"></i></span></a>
+                                                        <a href="<?php echo site_url('/welcome/oxygen') ?>" target="_self"><img src="/assets/upload/train-railway-s-bahn-transport-800x420.jpg" alt="" width="800" height="420"><span class="gdlr-core-image-overlay " style="background: rgba(236, 182, 34, 0.6) ;"><i class="gdlr-core-image-overlay-icon fa fa-link gdlr-core-size-28" style="color: #ffffff;"></i></span></a>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="gdlr-core-pbf-element">
                                                 <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 20px;">
                                                     <div class="gdlr-core-title-item-title-wrap ">
-                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 20px;font-weight: 500;letter-spacing: 0px;text-transform: none;"><a href="#" target="_self">Other products</a><span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider"></span></h3></div>
+                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 20px;font-weight: 500;letter-spacing: 0px;text-transform: none;"><a href="<?php echo site_url('/welcome/oxygen') ?>" target="_self">Other products</a><span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider"></span></h3></div>
                                                 </div>
                                             </div>
                                             <div class="gdlr-core-pbf-element">
