@@ -36,7 +36,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-center-align" style="padding-bottom: 40px;">
                                             <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;">
-                                                <a class="gdlr-core-ilightbox gdlr-core-js " href="upload/shutterstock_134132600.jpg"><img src="assets/upload/shutterstock_134132600-920x415.jpg" alt="" width="920" height="415"><span class="gdlr-core-image-overlay "><i class="gdlr-core-image-overlay-icon fa fa-search gdlr-core-size-22"></i></span></a>
+                                                <a class="gdlr-core-ilightbox gdlr-core-js " href="upload/shutterstock_134132600.jpg"><img src="/assets/upload/shutterstock_134132600-920x415.jpg" alt="" width="920" height="415"><span class="gdlr-core-image-overlay "><i class="gdlr-core-image-overlay-icon fa fa-search gdlr-core-size-22"></i></span></a>
                                             </div>
                                         </div>
                                     </div>
@@ -122,15 +122,15 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                 <div class="gdlr-core-pbf-background-wrap" style="background-color: #f9f9f9 ;"></div>
                                 <div class="gdlr-core-sidebar-item">
                                     <div id="nav_menu-2" class="widget widget_nav_menu realfactory-widget">
-                                        <h3 class="realfactory-widget-title">Market Sectors</h3>
+                                        <h3 class="realfactory-widget-title">Products</h3>
                                         <div class="menu-market-sectors-container">
-                                            <ul id="menu-market-sectors" class="menu">
-                                                <li class="menu-item"><a href="index.htm">Automotive Parts &#038; System</a></li>
-                                                <li class="menu-item"><a href="construction-engineering.html">Construction &#038; Engineering</a></li>
-                                                <li class="menu-item"><a href="power-energy.html">Power &#038; Energy</a></li>
-                                                <li class="menu-item"><a href="aero-space.html">Aero Space</a></li>
-                                                <li class="menu-item"><a href="ship-building-insudtry.html">Ship Building Industry</a></li>
-                                                <li class="menu-item"><a href="railway.html">Railway</a></li>
+                                           <ul id="menu-market-sectors" class="menu">
+                                                <li class="menu-item"><a href="<?php echo site_url('/welcome/oxygen') ?>">Oxygen</a></li>
+                                                <li class="menu-item"><a href="<?php echo site_url('/welcome/nitrogen') ?>">Nitrogen</a></li>
+                                                <li class="menu-item"><a href="<?php echo site_url('/welcome/argon') ?>">Argon</a></li>
+                                                <li class="menu-item"><a href="<?php echo site_url('/welcome/acetylene') ?>">Acetylene</a></li>
+                                                <li class="menu-item"><a href="<?php echo site_url('/welcome/cylinders') ?>">Cylinders</a></li>
+                                                <li class="menu-item"><a href="<?php echo site_url('/welcome/oxygen') ?>">Others</a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -138,10 +138,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                         <h3 class="realfactory-widget-title">Useful Links</h3>
                                         <div class="menu-useful-links-container">
                                             <ul id="menu-useful-links" class="menu">
-                                                <li class="menu-item"><a href="about-us.html">About Us</a></li>
-                                                <li class="menu-item"><a href="blog-3-columns-with-frame.html">Recent News</a></li>
-                                                <li class="menu-item"><a href="portfolio-3-columns.html">Our Works</a></li>
-                                                <li class="menu-item"><a href="contact.html">Contact</a></li>
+                                                <li class="menu-item"><a href="<?php echo site_url('/welcome/aboutus') ?>">About Us</a></li>
+                                                <li class="menu-item"><a href="<?php echo site_url('/welcome/aboutus') ?>">Recent News</a></li>
+                                                <li class="menu-item"><a href="<?php echo site_url('/welcome/aboutus') ?>">Our Works</a></li>
+                                                <li class="menu-item"><a href="<?php echo site_url('/welcome/contact') ?>">Contact</a></li>
                                             </ul>
                                         </div>
                                     </div>

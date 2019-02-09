@@ -36,7 +36,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                             <div class="gdlr-core-pbf-element">
                                                 <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 15px;">
                                                     <div class="gdlr-core-text-box-item-content" style="font-size: 17px;">
-                                                        <p>Universal Gas Plant is engaged in manufacturing industrial and medical oxygen to World Standard level of 99.99%.<br>Among some of the products we have are listed below</p>
+                                                        <p>Universal Gas Plant is engaged in manufacturing industrial and medical oxygen to World Standard level of 99.99%.<br>Some of the products manufactured by the company are:</p>
                                                     </div>
                                                 </div>
                                             </div>

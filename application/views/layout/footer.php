@@ -45,7 +45,7 @@
                 </div>
                 <div class="realfactory-copyright-wrapper">
                     <div class="realfactory-copyright-container realfactory-container">
-                        <div class="realfactory-copyright-text realfactory-item-pdlr">@Copyright 2019, MA UNIVERSAL GAS PLANT</div>
+                        <div class="realfactory-copyright-text realfactory-item-pdlr">Copyright© 2019, MA UNIVERSAL GAS PLANT</div>
                     </div>
                 </div>
             </footer>
