@@ -41,6 +41,19 @@
                                 </div>
                             </div>
                         </div>
+
+                        <div class="realfactory-footer-column realfactory-item-pdlr realfactory-column-15">
+                            <div id="text-7" class="widget widget_text realfactory-widget">
+                                <h3 class="realfactory-widget-title">Sales office</h3>
+                                <div class="textwidget">
+                                    <p><i class="fa fa-location-arrow" style="font-size: 20px;color: #f7c02e;margin-left: 0px;margin-right: 10px;"></i> Addis Ababa,Ethiopia
+                                        <br> <span class="gdlr-core-space-shortcode" style="margin-top: -6px;"></span>
+                                        <br> <i class="fa fa-phone" style="font-size: 20px;color: #f7c02e;margin-right: 10px;"></i> +251-911-201434
+                                        <br> <span class="gdlr-core-space-shortcode" style="margin-top: -6px;"></span>
+                                        <br> <i class="fa fa-envelope-o" style="font-size: 20px;color: #f7c02e;margin-left: 0px;margin-right: 10px;"></i> mauniversalgas@gmail.com</p>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <div class="realfactory-copyright-wrapper">

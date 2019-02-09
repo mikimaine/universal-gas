@@ -83,7 +83,7 @@
                             </div>
                     </div>
                     <div class="realfactory-top-bar-right realfactory-item-pdlr">
-                        <div class="realfactory-top-bar-right-social"><a href="mailto:mauniversalgas@gmail.com" target="_blank" class="realfactory-top-bar-social-icon" title="email"><i class="fa fa-envelope"></i></a></div>
+                        <div class="realfactory-top-bar-right-social"><a href="mailto:mauniversalgas@gmail.com" target="_blank" class="realfactory-top-bar-social-icon" title="email"><i class="fa fa-envelope"></i>  mauniversalgas@gmail.com</a></div>
                     </div>
                 </div>
             </div>
