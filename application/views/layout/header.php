@@ -23,7 +23,7 @@
             <div class="realfactory-mobile-header-container realfactory-container">
                 <div class="realfactory-logo  realfactory-item-pdlr">
                     <div class="realfactory-logo-inner">
-                        <a ><img src="/assets/images/logo.png" alt=""></a>
+                        <a ><img src="/assets/upload/logo.png" alt=""></a>
                     </div>
                 </div>
                 <div class="realfactory-mobile-menu-right">
@@ -32,14 +32,14 @@
                     <div class="realfactory-mobile-menu"><a class="realfactory-mm-menu-button realfactory-mobile-menu-button realfactory-mobile-button-hamburger-with-border" href="#realfactory-mobile-menu"><i class="fa fa-bars"></i></a>
                         <div class="realfactory-mm-menu-wrap realfactory-navigation-font" id="realfactory-mobile-menu" data-slide="right">
                             <ul id="menu-main-navigation" class="m-menu">
-                                <li class="menu-item menu-item-has-children"><a href="index.html">Home</a>
+                                <li class="menu-item menu-item-has-children"><a href="<?php echo site_url('/welcome/index') ?>">Home</a>
                                 </li>
-                                <li class="menu-item menu-item-has-children"><a href="about.php">About us</a>
+                                <li class="menu-item menu-item-has-children"><a href="<?php echo site_url('/welcome/aboutus') ?>">About us</a>
                                 </li>
-                                <li class="menu-item menu-item-has-children"><a href="products.php">Products</a>
+                                <li class="menu-item menu-item-has-children"><a href="<?php echo site_url('/welcome/product') ?>">Products</a>
                                     
                                 </li>
-                                <li class="menu-item menu-item-has-children"><a href="<?php echo site_url('/welcome/product') ?>">Contact us</a>
+                                <li class="menu-item menu-item-has-children"><a href="<?php echo site_url('/welcome/contact') ?>">Contact us</a>
                                    
                                 </li>
                                
@@ -58,8 +58,9 @@
                     <div class="realfactory-header-container-inner">
                         <div class="realfactory-logo  realfactory-item-pdlr">
                             <div class="realfactory-logo-inner">
-                                <a href="index.html"><img src="/assets/upload/logo.png" alt=""></a>
+                                <a href="<?php echo site_url('/welcome/index') ?>"><img src="/assets/upload/logo.png" alt=""></a>
                             </div>
+
                         </div>
                         <div class="realfactory-logo-right-text realfactory-item-pdlr">
                             <div class="realfactory-logo-right-block"><i class="realfactory-logo-right-block-icon icon_check_alt2"></i>
@@ -77,7 +78,7 @@
                             <div class="realfactory-logo-right-block"><i class="realfactory-logo-right-block-icon icon_check_alt2"></i>
                                 <div class="realfactory-logo-right-block-content">
                                     <div class="realfactory-logo-right-block-title realfactory-title-font">Number #1</div>
-                                    <div class="realfactory-logo-right-block-caption realfactory-title-font">The only liquid nitrogen Suplier in Ethiopia</div>
+                                    <div class="realfactory-logo-right-block-caption realfactory-title-font">The only liquid nitrogen<br> Suplier in Ethiopia</div>
                                 </div>
                                 </div><a class="realfactory-header-right-button" href="<?php echo site_url('/welcome/contact') ?>" target="_self">Contact us</a></div>
                     </div>

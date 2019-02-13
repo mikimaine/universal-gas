@@ -189,7 +189,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                             <div class="gdlr-core-pbf-element">
                                                 <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-center-align" style="padding-bottom: 35px;">
                                                     <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-round" style="border-width: 0px;">
-                                                        <a href="<?php echo site_url('/welcome/nirogen') ?>" target="_self"><img src="/assets/upload/shutterstock_134132600-800x420.jpg" alt="" width="800" height="420"><span class="gdlr-core-image-overlay " style="background: rgba(236, 182, 34, 0.6) ;"><i class="gdlr-core-image-overlay-icon fa fa-link gdlr-core-size-28" style="color: #ffffff;"></i></span></a>
+                                                        <a href="<?php echo site_url('/welcome/nitrogen') ?>" target="_self"><img src="/assets/upload/shutterstock_134132600-800x420.jpg" alt="" width="800" height="420"><span class="gdlr-core-image-overlay " style="background: rgba(236, 182, 34, 0.6) ;"><i class="gdlr-core-image-overlay-icon fa fa-link gdlr-core-size-28" style="color: #ffffff;"></i></span></a>
                                                     </div>
                                                 </div>
                                             </div>

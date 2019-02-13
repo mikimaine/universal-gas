@@ -12,7 +12,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-center-align gdlr-core-title-item-caption-bottom gdlr-core-item-pdlr">
                                         <div class="gdlr-core-title-item-title-wrap ">
-                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 75px;">Contact Us<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider"></span></h3></div><span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" style="font-size: 25px;margin-top: 25px;">Get Intouch</span></div>
+                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 75px;">Contact Us<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider"></span></h3></div><span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" style="font-size: 25px;margin-top: 25px;">Get In touch</span></div>
                                 </div>
                             </div>
                         </div>
@@ -35,7 +35,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                             <div class="gdlr-core-pbf-element">
                                                 <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-center-align" style="padding-bottom: 0px;">
                                                     <div class="gdlr-core-text-box-item-content" style="font-size: 16px;">
-                                                        <h2>Give us a call</h2>
+                                                        <h2>Give us a call!</h2>
                                                     </div>
                                                 </div>
                                             </div>
@@ -93,7 +93,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                             <div class="gdlr-core-pbf-element">
                                                 <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-center-align" style="padding-bottom: 0px;">
                                                     <div class="gdlr-core-text-box-item-content" style="font-size: 16px;">
-                                                        <p>there is a saying 'Eyes are the windows to the soul.'so we welcome any visitors 
+                                                        <p>There is a saying 'Eyes are the windows to the soul.' so we welcome any visitors. 
                                                             <br>Adama/Nazreth, Ethiopia</p>
                                                     </div>
                                                 </div>
