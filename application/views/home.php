@@ -163,7 +163,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                             <div class="gdlr-core-pbf-element">
                                                 <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-center-align" style="padding-bottom: 35px;">
                                                     <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-round" style="border-width: 0px;">
-                                                        <a href="<?php echo site_url('/welcome/oxygen') ?>" target="_self"><img src="/assets/upload/shutterstock_189361109-800x420.jpg" alt="" width="800" height="420"><span class="gdlr-core-image-overlay " style="background: rgba(236, 182, 34, 0.6) ;"><i class="gdlr-core-image-overlay-icon fa fa-link gdlr-core-size-28" style="color: #ffffff;"></i></span></a>
+                                                        <a href="<?php echo site_url('/welcome/oxygen') ?>" target="_self"><img src="/assets/upload/oxygen-800x420.jpg" alt="" width="800" height="420"><span class="gdlr-core-image-overlay " style="background: rgba(236, 182, 34, 0.6) ;"><i class="gdlr-core-image-overlay-icon fa fa-link gdlr-core-size-28" style="color: #ffffff;"></i></span></a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -189,7 +189,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                             <div class="gdlr-core-pbf-element">
                                                 <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-center-align" style="padding-bottom: 35px;">
                                                     <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-round" style="border-width: 0px;">
-                                                        <a href="<?php echo site_url('/welcome/nitrogen') ?>" target="_self"><img src="/assets/upload/shutterstock_134132600-800x420.jpg" alt="" width="800" height="420"><span class="gdlr-core-image-overlay " style="background: rgba(236, 182, 34, 0.6) ;"><i class="gdlr-core-image-overlay-icon fa fa-link gdlr-core-size-28" style="color: #ffffff;"></i></span></a>
+                                                        <a href="<?php echo site_url('/welcome/nitrogen') ?>" target="_self"><img src="/assets/upload/nitrogen-800x420.jpg" alt="" width="800" height="420"><span class="gdlr-core-image-overlay " style="background: rgba(236, 182, 34, 0.6) ;"><i class="gdlr-core-image-overlay-icon fa fa-link gdlr-core-size-28" style="color: #ffffff;"></i></span></a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -216,7 +216,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                             <div class="gdlr-core-pbf-element">
                                                 <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-center-align" style="padding-bottom: 35px;">
                                                     <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-round" style="border-width: 0px;">
-                                                        <a href="<?php echo site_url('/welcome/argon') ?>" target="_self"><img src="/assets/upload/shutterstock_161515241-800x420.jpg" alt="" width="800" height="420"><span class="gdlr-core-image-overlay " style="background: rgba(236, 182, 34, 0.6) ;"><i class="gdlr-core-image-overlay-icon fa fa-link gdlr-core-size-28" style="color: #ffffff;"></i></span></a>
+                                                        <a href="<?php echo site_url('/welcome/argon') ?>" target="_self"><img src="/assets/upload/argon-800x420.jpg" alt="" width="800" height="420"><span class="gdlr-core-image-overlay " style="background: rgba(236, 182, 34, 0.6) ;"><i class="gdlr-core-image-overlay-icon fa fa-link gdlr-core-size-28" style="color: #ffffff;"></i></span></a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -242,7 +242,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                             <div class="gdlr-core-pbf-element">
                                                 <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-center-align" style="padding-bottom: 35px;">
                                                     <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-round" style="border-width: 0px;">
-                                                        <a href="<?php echo site_url('/welcome/acetylene') ?>" target="_self"><img src="/assets/upload/shutterstock_28260298-800x420.jpg" alt="" width="800" height="420"><span class="gdlr-core-image-overlay " style="background: rgba(236, 182, 34, 0.6) ;"><i class="gdlr-core-image-overlay-icon fa fa-link gdlr-core-size-28" style="color: #ffffff;"></i></span></a>
+                                                        <a href="<?php echo site_url('/welcome/acetylene') ?>" target="_self"><img src="/assets/upload/acetylene.jpg" alt="" width="800" height="420"><span class="gdlr-core-image-overlay " style="background: rgba(236, 182, 34, 0.6) ;"><i class="gdlr-core-image-overlay-icon fa fa-link gdlr-core-size-28" style="color: #ffffff;"></i></span></a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -269,7 +269,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                             <div class="gdlr-core-pbf-element">
                                                 <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-center-align" style="padding-bottom: 35px;">
                                                     <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-round" style="border-width: 0px;">
-                                                        <a href="<?php echo site_url('/welcome/cylinders') ?>" target="_self"><img src="/assets/upload/amsterdam-ship-bay-harbor-68135-800x420.jpeg" alt="" width="800" height="420"><span class="gdlr-core-image-overlay " style="background: rgba(236, 182, 34, 0.6) ;"><i class="gdlr-core-image-overlay-icon fa fa-link gdlr-core-size-28" style="color: #ffffff;"></i></span></a>
+                                                        <a href="<?php echo site_url('/welcome/cylinders') ?>" target="_self"><img src="/assets/upload/cylinders-800x420.jpg" alt="" width="800" height="420"><span class="gdlr-core-image-overlay " style="background: rgba(236, 182, 34, 0.6) ;"><i class="gdlr-core-image-overlay-icon fa fa-link gdlr-core-size-28" style="color: #ffffff;"></i></span></a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -295,7 +295,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                             <div class="gdlr-core-pbf-element">
                                                 <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-center-align" style="padding-bottom: 35px;">
                                                     <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-round" style="border-width: 0px;">
-                                                        <a href="<?php echo site_url('/welcome/oxygen') ?>" target="_self"><img src="/assets/upload/train-railway-s-bahn-transport-800x420.jpg" alt="" width="800" height="420"><span class="gdlr-core-image-overlay " style="background: rgba(236, 182, 34, 0.6) ;"><i class="gdlr-core-image-overlay-icon fa fa-link gdlr-core-size-28" style="color: #ffffff;"></i></span></a>
+                                                        <a href="<?php echo site_url('/welcome/oxygen') ?>" target="_self"><img src="/assets/upload/oxygen-800x420.jpg" alt="" width="800" height="420"><span class="gdlr-core-image-overlay " style="background: rgba(236, 182, 34, 0.6) ;"><i class="gdlr-core-image-overlay-icon fa fa-link gdlr-core-size-28" style="color: #ffffff;"></i></span></a>
                                                     </div>
                                                 </div>
                                             </div>

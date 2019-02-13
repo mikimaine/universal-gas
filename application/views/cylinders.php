@@ -32,7 +32,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-center-align" style="padding-bottom: 40px;">
                                             <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;">
-                                                <a class="gdlr-core-ilightbox gdlr-core-js " href="upload/shutterstock_134132600.jpg"><img src="/assets/upload/shutterstock_134132600-920x415.jpg" alt="" width="920" height="415"><span class="gdlr-core-image-overlay "><i class="gdlr-core-image-overlay-icon fa fa-search gdlr-core-size-22"></i></span></a>
+                                                <a class="gdlr-core-ilightbox gdlr-core-js " href="upload/shutterstock_134132600.jpg"><img src="/assets/upload/cylinders-900x280.jpg" alt="" width="920" height="415"><span class="gdlr-core-image-overlay "><i class="gdlr-core-image-overlay-icon fa fa-search gdlr-core-size-22"></i></span></a>
                                             </div>
                                         </div>
                                     </div>
