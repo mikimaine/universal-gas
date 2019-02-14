@@ -34,7 +34,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-center-align" style="padding-bottom: 40px;">
                                             <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;">
-                                                <a class="gdlr-core-ilightbox gdlr-core-js " href="upload/traffic-car-vehicle-black.jpg"><img src="/assets/upload/oxygen-900x280.jpg" alt="" width="900" height="280"><span class="gdlr-core-image-overlay "><i class="gdlr-core-image-overlay-icon fa fa-search gdlr-core-size-22"></i></span></a>
+                                                <a class="gdlr-core-ilightbox gdlr-core-js " href="/assets/upload/oxygen-900x280.jpg"><img src="/assets/upload/oxygen-900x280.jpg" alt="" width="900" height="280"><span class="gdlr-core-image-overlay "><i class="gdlr-core-image-overlay-icon fa fa-search gdlr-core-size-22"></i></span></a>
                                             </div>
                                         </div>
                                     </div>
@@ -90,7 +90,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                                         </div>
                                                     </div>
                                                 </div>
-                                                
+                                              
                                             </div>
                                         </div>
                                     </div>
@@ -100,7 +100,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                 <div class="gdlr-core-pbf-background-wrap" style="background-color: #f9f9f9 ;"></div>
                                 <div class="gdlr-core-sidebar-item">
                                     <div id="nav_menu-2" class="widget widget_nav_menu realfactory-widget">
-                                        <h3 class="realfactory-widget-title">products</h3>
+                                        <h3 class="realfactory-widget-title">Products</h3>
                                         <div class="menu-market-sectors-container">
                                             <ul id="menu-market-sectors" class="menu">
                                                 <li class="menu-item"><a href="<?php echo site_url('/welcome/oxygen') ?>">Oxygen</a></li>
@@ -112,7 +112,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                             </ul>
                                         </div>
                                     </div>
-                                   <div id="nav_menu-3" class="widget widget_nav_menu realfactory-widget">
+                                    <div id="nav_menu-3" class="widget widget_nav_menu realfactory-widget">
                                         <h3 class="realfactory-widget-title">Useful Links</h3>
                                         <div class="menu-useful-links-container">
                                             <ul id="menu-useful-links" class="menu">

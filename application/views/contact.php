@@ -1,20 +1,18 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 ?>
-
-
 <div class="realfactory-page-wrapper" id="realfactory-page-wrapper">
                 <div class="gdlr-core-page-builder-body">
                     <div class="gdlr-core-pbf-wrapper " style="padding: 250px 0px 160px 0px;" data-skin="Dark">
                         <div class="gdlr-core-pbf-background-wrap">
-                            <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" style="background-image: url(upload/bg-featured-image-2.jpg);background-size: cover;background-position: center;" data-parallax-speed="0.3"></div>
+                            <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" style="background-image: url(/assets/upload/bg-featured-image-2.jpg);background-size: cover;background-position: center;" data-parallax-speed="0.3"></div>
                         </div>
                         <div class="gdlr-core-pbf-wrapper-content gdlr-core-js " data-gdlr-animation="fadeInUp" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
                             <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-center-align gdlr-core-title-item-caption-bottom gdlr-core-item-pdlr">
                                         <div class="gdlr-core-title-item-title-wrap ">
-                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 75px;">Contact Us<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider"></span></h3></div><span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" style="font-size: 25px;margin-top: 25px;">Get Intouch</span></div>
+                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 75px;">Contact Us<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider"></span></h3></div><span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" style="font-size: 25px;margin-top: 25px;">Get In touch</span></div>
                                 </div>
                             </div>
                         </div>
@@ -37,14 +35,14 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                             <div class="gdlr-core-pbf-element">
                                                 <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-center-align" style="padding-bottom: 0px;">
                                                     <div class="gdlr-core-text-box-item-content" style="font-size: 16px;">
-                                                        <p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings.</p>
+                                                        <h2>Give us a call!</h2>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="gdlr-core-pbf-element">
                                                 <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-center-align">
                                                     <div class="gdlr-core-text-box-item-content" style="font-size: 16px;">
-                                                        <p><a href="#">+1-2345-2345</a></p>
+                                                        <p><a >+251 221 126427</a></p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -66,14 +64,14 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                             <div class="gdlr-core-pbf-element">
                                                 <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-center-align" style="padding-bottom: 0px;">
                                                     <div class="gdlr-core-text-box-item-content" style="font-size: 16px;">
-                                                        <p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings.</p>
+                                                        <p></p>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="gdlr-core-pbf-element">
                                                 <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-center-align">
                                                     <div class="gdlr-core-text-box-item-content" style="font-size: 16px;">
-                                                        <p><a href="#">Contact@goodlayers.com</a></p>
+                                                        <p><a href="mailto:mauniversalgas@gmail.com">mauniversalgas@gmail.com</a></p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -95,15 +93,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                             <div class="gdlr-core-pbf-element">
                                                 <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-center-align" style="padding-bottom: 0px;">
                                                     <div class="gdlr-core-text-box-item-content" style="font-size: 16px;">
-                                                        <p>4 apt. Flawing Street. The Grand Avenue.
-                                                            <br>Liverpool, UK 33342</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-center-align">
-                                                    <div class="gdlr-core-text-box-item-content" style="font-size: 16px;">
-                                                        <p><a href="#">View On Google Map</a></p>
+                                                        <p>There is a saying 'Eyes are the windows to the soul.' so we welcome any visitors. 
+                                                            <br>Adama/Nazreth, Ethiopia</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -160,7 +151,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                                                 <div class="gdlr-core-column-60">
                                                                     <div class="quform-submit">
                                                                         <div class="quform-submit-inner">
-                                                                            <button type="submit" class="submit-button"><span><em>Submit Now</em></span></button>
+                                                                            <button type="submit" class="submit-button"><span><a href="mail to:"><em>Submit Now</em></a></span></button>
                                                                         </div>
                                                                         <div class="quform-loading-wrap"><span class="quform-loading"></span></div>
                                                                     </div>
@@ -182,19 +173,12 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-wp-google-map-plugin-item gdlr-core-item-pdlr gdlr-core-item-pdb " style="padding-bottom: 0px;">
                                         <div class="wpgmp_map_container wpgmp-map-1" rel="map1">
-                                            <div class="wpgmp_map " style="width:100%; height:550px;" id="map1"></div>
+                                            <div class="wpgmp_map " style="width:100%; height:550px;" id="map1">
+                                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d126260.59513436626!2d39.19439640737849!3d8.533938417392136!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x164b1f65036ecb0f%3A0x6babded8f5e67ef6!2sAdama!5e0!3m2!1sen!2set!4v1548939252873" width="100%" height="100%" frameborder="0" style="border:0" allowfullscreen></iframe>
+                                            </div>
+                                            
                                         </div>
                                     </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="gdlr-core-pbf-wrapper " style="padding: 80px 0px 50px 0px;">
-                        <div class="gdlr-core-pbf-background-wrap" style="background-color: #2d2d2d ;"></div>
-                        <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
-                            <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
-                                <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-social-network-item gdlr-core-item-pdb  gdlr-core-center-align gdlr-core-item-pdlr"><a href="mailto:#" target="_blank" class="gdlr-core-social-network-icon" title="email" style="font-size: 20px;color: #ffffff;"><i class="fa fa-envelope"></i></a><a href="#" target="_blank" class="gdlr-core-social-network-icon" title="facebook" style="font-size: 20px;color: #ffffff;margin-left: 40px;"><i class="fa fa-facebook"></i></a><a href="#" target="_blank" class="gdlr-core-social-network-icon" title="google-plus" style="font-size: 20px;color: #ffffff;margin-left: 40px;"><i class="fa fa-google-plus"></i></a><a href="#" target="_blank" class="gdlr-core-social-network-icon" title="skype" style="font-size: 20px;color: #ffffff;margin-left: 40px;"><i class="fa fa-skype"></i></a><a href="#" target="_blank" class="gdlr-core-social-network-icon" title="twitter" style="font-size: 20px;color: #ffffff;margin-left: 40px;"><i class="fa fa-twitter"></i></a></div>
                                 </div>
                             </div>
                         </div>
