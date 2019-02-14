@@ -53,14 +53,6 @@ $route['default_controller'] = 'home';
 $route['404_override'] = 'welcome/404';
 $route['translate_uri_dashes'] = FALSE;
 
-$route['product'] = 'product/oxygen';
-//$route['index'] = 'welcome/index';
-$route['oxygen'] = 'product/oxygen';
-$route['nitrogen'] = 'product/nitrogen';
-$route['argon'] = 'product/argon';
-$route['acetylene'] = 'product/acetylene';
-$route['cylinders'] = 'product/cylinders';
-$route['aboutus'] = 'product/aboutus';
-$route['contact'] = 'product/contact';
+
 
 
