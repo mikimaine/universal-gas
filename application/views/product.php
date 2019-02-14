@@ -17,7 +17,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <div class="realfactory-breadcrumbs-container realfactory-container">
                     <div class="realfactory-breadcrumbs-item realfactory-item-pdlr"> <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to Real Factory." href="https://demo.goodlayers.com/realfactory" class="home"><span property="name">Home</span></a>
                         <meta property="position" content="1">
-                        </span><i class="fa fa-angle-right"></i> <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to Products" href="<?php echo site_url('/welcome/oxygen') ?>" class="post post-page"><span property="name">Products</span></a>
+                        </span><i class="fa fa-angle-right"></i> <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to Products" href="<?php echo site_url('/product/oxygen') ?>" class="post post-page"><span property="name">Products</span></a>
                         <meta property="position" content="2">
                         </span><i class="fa fa-angle-right"></i> <span property="itemListElement" typeof="ListItem"><span property="name">Oxygen</span>
                         <meta property="position" content="3">
@@ -103,12 +103,12 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                         <h3 class="realfactory-widget-title">products</h3>
                                         <div class="menu-market-sectors-container">
                                             <ul id="menu-market-sectors" class="menu">
-                                                <li class="menu-item"><a href="<?php echo site_url('/welcome/oxygen') ?>">Oxygen</a></li>
-                                                <li class="menu-item"><a href="<?php echo site_url('/welcome/nitrogen') ?>">Nitrogen</a></li>
-                                                <li class="menu-item"><a href="<?php echo site_url('/welcome/argon') ?>">Argon</a></li>
-                                                <li class="menu-item"><a href="<?php echo site_url('/welcome/acetylene') ?>">Acetylene</a></li>
-                                                <li class="menu-item"><a href="<?php echo site_url('/welcome/cylinders') ?>">Cylinders</a></li>
-                                                <li class="menu-item"><a href="<?php echo site_url('/welcome/oxygen') ?>">Others</a></li>
+                                                <li class="menu-item"><a href="<?php echo site_url('/product/oxygen') ?>">Oxygen</a></li>
+                                                <li class="menu-item"><a href="<?php echo site_url('/product/nitrogen') ?>">Nitrogen</a></li>
+                                                <li class="menu-item"><a href="<?php echo site_url('/product/argon') ?>">Argon</a></li>
+                                                <li class="menu-item"><a href="<?php echo site_url('/product/acetylene') ?>">Acetylene</a></li>
+                                                <li class="menu-item"><a href="<?php echo site_url('/product/cylinders') ?>">Cylinders</a></li>
+                                                
                                             </ul>
                                         </div>
                                     </div>
@@ -116,9 +116,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                         <h3 class="realfactory-widget-title">Useful Links</h3>
                                         <div class="menu-useful-links-container">
                                             <ul id="menu-useful-links" class="menu">
-                                                <li class="menu-item"><a href="<?php echo site_url('/welcome/aboutus') ?>">About Us</a></li>
-                                                <li class="menu-item"><a href="<?php echo site_url('/welcome/aboutus') ?>">Our Works</a></li>
-                                                <li class="menu-item"><a href="<?php echo site_url('/welcome/contact') ?>">Contact</a></li>
+                                                <li class="menu-item"><a href="<?php echo site_url('aboutus') ?>">About Us</a></li>
+                                                <li class="menu-item"><a href="<?php echo site_url('aboutus') ?>">Our Works</a></li>
+                                                <li class="menu-item"><a href="<?php echo site_url('contact') ?>">Contact</a></li>
                                             </ul>
                                         </div>
                                     </div>

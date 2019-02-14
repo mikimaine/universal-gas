@@ -5,7 +5,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>MA Universal  &#8211; INDUSTRIAL GAS PLANT</title>
+    <title><?php echo $head_title;?> </title>
+    
     <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Hind%3A300%2Cregular%2C500%2C600%2C700&#038;subset=latin%2Clatin-ext%2Cdevanagari&#038;ver=4.9.7' type='text/css' media='all'>
 
     <link rel='stylesheet' href='/assets/plugins/revslider/public/assets/css/settings.css' type='text/css' media='all'>
@@ -32,14 +33,14 @@
                     <div class="realfactory-mobile-menu"><a class="realfactory-mm-menu-button realfactory-mobile-menu-button realfactory-mobile-button-hamburger-with-border" href="#realfactory-mobile-menu"><i class="fa fa-bars"></i></a>
                         <div class="realfactory-mm-menu-wrap realfactory-navigation-font" id="realfactory-mobile-menu" data-slide="right">
                             <ul id="menu-main-navigation" class="m-menu">
-                                <li class="menu-item menu-item-has-children"><a href="<?php echo site_url('/welcome/index') ?>">Home</a>
+                                <li class="menu-item menu-item-has-children"><a href="<?php echo site_url('/home') ?>">Home</a>
                                 </li>
-                                <li class="menu-item menu-item-has-children"><a href="<?php echo site_url('/welcome/aboutus') ?>">About us</a>
+                                <li class="menu-item menu-item-has-children"><a href="<?php echo site_url('product/aboutus') ?>">About us</a>
                                 </li>
-                                <li class="menu-item menu-item-has-children"><a href="<?php echo site_url('/welcome/product') ?>">Products</a>
+                                <li class="menu-item menu-item-has-children"><a href="<?php echo site_url('/product/oxygen') ?>">Products</a>
                                     
                                 </li>
-                                <li class="menu-item menu-item-has-children"><a href="<?php echo site_url('/welcome/contact') ?>">Contact us</a>
+                                <li class="menu-item menu-item-has-children"><a href="<?php echo site_url('product/contact') ?>">Contact us</a>
                                    
                                 </li>
                                
@@ -58,7 +59,7 @@
                     <div class="realfactory-header-container-inner">
                         <div class="realfactory-logo  realfactory-item-pdlr">
                             <div class="realfactory-logo-inner">
-                                <a href="<?php echo site_url('/welcome/index') ?>"><img src="/assets/upload/logo.png" alt=""></a>
+                                <a href="<?php echo site_url('/home') ?>"><img src="/assets/upload/logo.png" alt=""></a>
                             </div>
 
                         </div>
@@ -80,7 +81,7 @@
                                     <div class="realfactory-logo-right-block-title realfactory-title-font">Number #1</div>
                                     <div class="realfactory-logo-right-block-caption realfactory-title-font">The only liquid nitrogen<br> Suplier in Ethiopia</div>
                                 </div>
-                                </div><a class="realfactory-header-right-button" href="<?php echo site_url('/welcome/contact') ?>" target="_self">Contact us</a></div>
+                                </div><a class="realfactory-header-right-button" href="<?php echo site_url('/contact') ?>" target="_self">Contact us</a></div>
                     </div>
                 </div>
             </header>

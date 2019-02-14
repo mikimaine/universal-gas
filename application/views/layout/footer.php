@@ -7,11 +7,11 @@
                                 <h3 class="realfactory-widget-title">products</h3>
                                 <div class="menu-market-sectors-container">
                                     <ul id="menu-market-sectors" class="menu">
-                                        <li class="menu-item"><a href="<?php echo site_url('/welcome/oxygen') ?>">Oxygen</a></li>
-                                        <li class="menu-item"><a href="<?php echo site_url('/welcome/nitrogen') ?>">Nitrogen</a></li>
-                                        <li class="menu-item"><a href="<?php echo site_url('/welcome/argon') ?>">Argon</a></li>
-                                        <li class="menu-item"><a href="<?php echo site_url('/welcome/acetylene') ?>">Acetylene</a></li>
-                                        <li class="menu-item"><a href="<?php echo site_url('/welcome/cylinders') ?>">Cylinders</a></li>
+                                        <li class="menu-item"><a href="<?php echo site_url('/product/oxygen') ?>">Oxygen</a></li>
+                                        <li class="menu-item"><a href="<?php echo site_url('/product/nitrogen') ?>">Nitrogen</a></li>
+                                        <li class="menu-item"><a href="<?php echo site_url('/product/argon') ?>">Argon</a></li>
+                                        <li class="menu-item"><a href="<?php echo site_url('/product/acetylene') ?>">Acetylene</a></li>
+                                        <li class="menu-item"><a href="<?php echo site_url('/product/cylinders') ?>">Cylinders</a></li>
                                     </ul>
                                 </div>
                             </div>
