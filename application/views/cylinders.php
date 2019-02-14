@@ -15,7 +15,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <div class="realfactory-breadcrumbs-container realfactory-container">
                     <div class="realfactory-breadcrumbs-item realfactory-item-pdlr"> <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to Real Factory." href="#" class="home"><span property="name">Home</span></a>
                         <meta property="position" content="1">
-                        </span><i class="fa fa-angle-right"></i> <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to Products" href="<?php echo site_url('/welcome/oxygen') ?>" class="post post-page"><span property="name">Products</span></a>
+                        </span><i class="fa fa-angle-right"></i> <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to Products" href="<?php echo site_url('/product/oxygen') ?>" class="post post-page"><span property="name">Products</span></a>
                         <meta property="position" content="2">
                         </span><i class="fa fa-angle-right"></i> <span property="itemListElement" typeof="ListItem"><span property="name">Cylinders</span>
                         <meta property="position" content="3">
